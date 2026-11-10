@@ -23,14 +23,16 @@ Puste pola oznaczone są „—”.
 
 ## Dostawca i koszt
 
-- Dostawca: do wybrania. Kandydaci znalezieni 10.11.2026 (cena i czas dostawy do PL do sprawdzenia):
+- Dostawca: TEEMDROP (decyzja właściciela 10.11.2026; bez zamawiania próbki). Do uzupełnienia z Teemdropa: nazwa i link produktu, koszt produktu, koszt wysyłki do PL, czas realizacji i dostawy, magazyn (Chiny/UE)
+- Zapasowi dostawcy (linki znalezione 10.11.2026, gdyby Teemdrop nie miał tej maski):
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-migraines-cold-hot-compress-care-ultra-fine-glass-bead-bag-for-headaches-sinus-puffy-eyes-dark-circles-light-blocking-eye-pillow-universal-size-g-601099537507804.html
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-cooling-cozy-reversible-blackout-sleep-mask-for-women-men-microwave-freezable-heavy-blindfold-for-migraine-travel-meditation-0-55lbs-grey-g-601105406376780.html
   - AliExpress: https://www.aliexpress.com/item/1005012120539630.html
 - Koszt zakupu za sztukę z wysyłką do PL: do sprawdzenia. Szacunek 15–25 zł. Górna granica: obciążeniowe maski w detalu na Walmart 8,88–19,99 $ = 34,81–78,36 zł (kurs NBP 9.11.2026)
 - MAKSYMALNY akceptowalny koszt z wysyłką: 35,43 zł (cena ≥3x koszt i marża ≥80 zł)
 - Czas dostawy: do sprawdzenia; przed świętami kluczowe (z Chin 8–18 dni, więc ostatnie zamówienia świąteczne ok. 1–5.12, chyba że dostawca ma magazyn w UE)
-- Wymagania wobec próbki: wkład ze szklanych kulek (nie żel), waga ok. 180 g, pełne zaciemnienie, materiał bez chemicznego zapachu, pranie w pralce
+- Kontrola jakości bez próbki: poprosić Teemdrop o zdjęcia/wideo kontroli jakości (QC) prawdziwej sztuki przed pierwszą wysyłką
+- Wymagania wobec produktu: wkład ze szklanych kulek (nie żel), waga ok. 180 g, pełne zaciemnienie, materiał bez chemicznego zapachu, pranie w pralce
 
 ## Cena i oferta
 
@@ -44,7 +46,7 @@ Puste pola oznaczone są „—”.
 - Próg CPA (maks. koszt reklamy na 1 zamówienie): 95,43 zł (najgorszy wariant 80,62 zł); dla zestawu 153,03 zł
 - ROAS na zero: 1,25 (najgorszy wariant 1,48); dla zestawu 1,30
 - Maksymalny koszt pozyskania klienta (próg rentowności): 95,43 zł
-- WERDYKT: BIORĘ. Marża ok. 95 zł to ponad 2 razy próg 40 zł, a marka reklamuje maskę od maja 2026 i przyspiesza (+24% reklam w tydzień); w PL tylko 2 małe sklepy. Warunek: koszt z wysyłką ≤35 zł i próbka
+- WERDYKT: BIORĘ. Marża ok. 95 zł to ponad 2 razy próg 40 zł, a marka reklamuje maskę od maja 2026 i przyspiesza (+24% reklam w tydzień); w PL tylko 2 małe sklepy. Warunek: koszt z wysyłką z Teemdropa ≤35 zł (wyliczenia do aktualizacji po podaniu kosztu)
 
 ## Marka
 
@@ -59,7 +61,12 @@ Puste pola oznaczone są „—”.
 - Domena: otulaj.pl
 - Waluta: PLN
 - Kraj sprzedaży: Polska (język polski, waluta PLN)
-- Strona produktu (link): —
+- Strona produktu (link): — (maska jeszcze nie jest w sklepie; import przez Teemdrop)
+- Stan sklepu (Shopify, 10.11.2026):
+  - „Otulaj Uścisk, zestaw 3w1: termofor do noszenia na okres i plecy”: AKTYWNY, 159 zł, warianty 1/2/3 zestawy (249/318 zł)
+  - „Otulaj Łapa, chłonna mata na błotniste łapy psa 50×80 cm”: SZKIC, 149 zł / 2 szt. 249 zł
+  - „Chwila dla Siebie, Zestaw do Haftu”: ZARCHIWIZOWANY
+- Konwencja nazw w sklepie: „Otulaj [Słowo], [co to jest i na jaki problem]”, oferta z wariantami 1 / 2 szt. Maskę nazwać w tym stylu (propozycja: „Otulaj Noc, obciążeniowa maska na oczy do spania”)
 
 ## Reklamy
 
@@ -90,3 +97,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Wybrany produkt: linka zabezpieczająca telefon dla narciarzy (wzór Holdmate). Werdykt BIORĘ warunkowo, cena 89 zł / zestaw 2 szt. 149 zł | Decyzja właściciela. Holdmate: 2815 aktywnych reklam od 01.2026; w PL Keeply.pl za 79,99 zł z wysyłką 1–2 dni, więc nasza przewaga to kąt narciarski i zestaw. Marża na sztuce 61–66 zł (poniżej celu 80 zł), na zestawie 104 zł |
 | 2026-11-10 | KONIEC SZUKANIA: startujemy z linką, bez dalszego zmieniania produktu | Właściciel chce startować od zaraz. Linka ma największy potwierdzony popyt ze wszystkich sprawdzonych produktów, w PL jednego słabego konkurenta, sezon zaczyna się teraz. Plan: próbka + strona + kreacje równolegle, test reklam po gotowej stronie |
 | 2026-11-10 | Pełny research v2 pod sezon do świąt. ZMIANA FAWORYTA: obciążeniowa maska na oczy do spania (wcześniej linka) | Na prośbę właściciela powtórzony research. Maska ma najsilniejszy popyt ze wszystkich (11,4 tys. reklam, +24%/tydz.), marżę ok. 95 zł na sztuce (linka 61–66 zł) i tylko 2 małe sklepy w PL; linka spada na 4. miejsce, bo Keeply.pl sprzedaje ją za 79,99 zł z wysyłką 1–2 dni. Raport: `wyniki/2026-11-10-research-v2-swieta.md` |
+| 2026-11-10 | Dostawca maski: Teemdrop, bez zamawiania próbki | Decyzja właściciela. Ryzyko jakości ograniczamy zdjęciami kontroli jakości od Teemdropa. Warianty „1 szt./2 szt.” muszą być zmapowane w Teemdropie, żeby zamówienia na 2 sztuki realizowały się automatycznie |
