@@ -5,47 +5,46 @@ Puste pola oznaczone są „—”.
 
 ## Produkt
 
-- Nazwa produktu: Linka zabezpieczająca telefon przed upadkiem (zwijana linka z łatką wkładaną pod etui, przypinana do kurtki lub plecaka)
-- Na czym polega (1 zdanie): Łatkę wkładasz między telefon a etui, linkę przypinasz do kurtki; telefon wypada z ręki i zostaje na lince zamiast w śniegu.
-- Dla kogo: narciarz lub snowboardzista, który robi zdjęcia i filmy na wyciągu
-- Jaki problem rozwiązuje: telefon wypada z ręki na wyciągu i ląduje w śniegu, a sezon w PL trwa od grudnia do marca
-- Wzór (konkurent): Holdmate Pro, Szwecja/USA. Sklep https://holdmategear.com, produkt https://holdmategear.com/products/holdmate-anti-drop-strap
+- Nazwa produktu: Obciążeniowa maska na oczy do spania (ok. 180 g szklanych kulek, zaciemnia, delikatnie uciska powieki)
+- Na czym polega (1 zdanie): Miękka maska z wkładem z drobnych szklanych kulek; zaciemnia całkowicie i lekkim uciskiem uspokaja, więc łatwiej zasnąć i nie budzić się o świcie.
+- Dla kogo: kobieta 30–55 lat, która budzi się w nocy z gonitwą myśli; ktoś, kto szuka dla niej prezentu pod choinkę
+- Jaki problem rozwiązuje: „leżę o 3 w nocy i nie mogę zasnąć”; długie listopadowe i grudniowe noce
+- Wzór (konkurent): Mellow Sleep (USA). Sklep https://mellowsleep.com, produkt https://mellowsleep.com/products/mellow-weighted-eyemask
 - Skąd pomysł (dowody, że się sprzedaje):
-  - 2815 aktywnych reklam na 2 stronach marki (Holdmate + Holdmate Gear; Biblioteka Reklam Meta, 10.11.2026)
-  - najstarsza aktywna reklama od 10.01.2026 (Winning Hunter, reklama 842517595275776), czyli ponad 10 miesięcy
-  - Biblioteka: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&view_all_page_id=988882004298821 oraz https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&view_all_page_id=908869042319935
-  - przychód 550 tys.–1,1 mln $ / 30 dni, ruch 10 tys. (01) → 92 tys. (09.2026) (Winning Hunter)
-  - kąt reklam: „Ask any skier: keeping your phone safe on the lift is usually a worry… Universal fit”
-- Konkurencja w Polsce: Keeply.pl, „PhoneGuard Pro” za 79,99 zł (przekreślone 99,99 zł). 4,85/5 z 65 opinii, stalowa linka 60 cm, wysyłka 1–2 dni (mają towar w PL), 14 dni na zwrot. Kąt ogólny: „chroni przed upadkiem i kradzieżą”, bez nart. 4 aktywne reklamy (od 10.03.2026). Holdmate sam kieruje reklamy także na PL, po angielsku.
-- Nasza przewaga: kąt „narty i góry” plus prezent na święta, zestaw 2 szt. dla pary lub rodziny
-- Produkty rezerwowe: kaczka dla psa (nr 2), obrotowy kosz do grilla (na wiosnę), szczegóły w `wyniki/2026-11-10-research-produktow.md`
+  - 13 586 aktywnych reklam marki (Biblioteka Reklam Meta, strona 583724811498012, 10.11.2026)
+  - 11 411 aktywnych, tydzień wcześniej 9206, czyli +24% w tydzień (Winning Hunter)
+  - najstarsza widoczna reklama maski od 16.05.2026 (Winning Hunter, reklama 956498357101931)
+  - marka weszła do sieci Target; 4,7/5 z 1064 opinii na stronie
+  - Biblioteka: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&view_all_page_id=583724811498012
+- Konkurencja w Polsce (Biblioteka Reklam Meta, 10.11.2026): słaba
+  - „obciążeniowa maska”: Miyego (5 reklam od 16–17.10.2026, „Fizyczny wyłącznik dla twoich myśli”, rozliczenie w EUR) i Pacifika Sklep (1 reklama od 10.10.2026)
+  - „maska na oczy do spania”: w pierwszych 15 wynikach brak masek do spania
+- Produkty rezerwowe (pełny opis w `wyniki/2026-11-10-research-v2-swieta.md`): 2. przedłużka offsetowa do grzechotki (prezent dla majsterkowicza), 3. uspokajająca kaczka dla psa, 4. linka do telefonu dla narciarzy, 5. filtr do kąpieli dla dzieci z AZS
 
 ## Dostawca i koszt
 
-- Dostawca: do sprawdzenia. Szukać: „retractable phone tether patch”, „anti-drop phone lanyard tether patch skiing”. Najlepiej dostawca z magazynem w UE/PL, bo Keeply wysyła w 1–2 dni, a z Chin to 8–18 dni (ważne przed świętami)
-- Link do produktu u dostawcy (kandydaci znalezieni 10.11.2026, cena i dostawa do PL do sprawdzenia przez właściciela):
-  - Temu, zestaw 2 linki + 4 łatki + 2 karabińczyki (pasuje do oferty „zestaw 2 szt.”): https://www.temu.com/phone-tether-lanyard-anti-theft-phone-strap-with-carabiner-anti-drop-outdoor-skiing-hiking-cycling-fishing-climbing-fit-for-iphone-and-most-cell-phone-2-tether-4-patch-2-carabiner-clip-g-601099536100768.html
-  - Temu, pojedyncza linka z karabińczykiem: https://www.temu.com/phone-tether-lanyard-anti-theft-phone-strap-with-carabiner-anti-drop-outdoor-skiing-hiking-cycling-fishing-climbing-for-iphone-and-most-cell-phone-g-601099528362167.html
-  - AliExpress, zwijana stalowa linka z karabińczykiem: https://www.aliexpress.com/i/3256808446567734.html
-- Ryzyko: ten sam typ produktu jest na Temu, więc klient może go znaleźć taniej. Bronimy się kątem narciarskim, zestawem i szybką obsługą
-- Koszt zakupu za sztukę z wysyłką do PL: do sprawdzenia. Szacunek 20–25 zł. Ceny detaliczne podobnych linek na Walmart: 4,74–14,99 $ (18,58–58,76 zł), zwijane ze stalową linką 7,88–9,99 $ (30,89–39,16 zł)
-- Maksymalny koszt z wysyłką: 25 zł (żeby marża na sztuce zostawała ≥60 zł). Próg odpuszczenia (marża 40 zł): 46,33 zł
-- Czas dostawy: do sprawdzenia, przed świętami kluczowe
-- Wymagania wobec próbki: łatka trzyma się pod etui (główna skarga klientów Holdmate to słabe mocowanie), linka zwija się płynnie, karabińczyk lub klips się nie otwiera
+- Dostawca: do wybrania. Kandydaci znalezieni 10.11.2026 (cena i czas dostawy do PL do sprawdzenia):
+  - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-migraines-cold-hot-compress-care-ultra-fine-glass-bead-bag-for-headaches-sinus-puffy-eyes-dark-circles-light-blocking-eye-pillow-universal-size-g-601099537507804.html
+  - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-cooling-cozy-reversible-blackout-sleep-mask-for-women-men-microwave-freezable-heavy-blindfold-for-migraine-travel-meditation-0-55lbs-grey-g-601105406376780.html
+  - AliExpress: https://www.aliexpress.com/item/1005012120539630.html
+- Koszt zakupu za sztukę z wysyłką do PL: do sprawdzenia. Szacunek 15–25 zł. Górna granica: obciążeniowe maski w detalu na Walmart 8,88–19,99 $ = 34,81–78,36 zł (kurs NBP 9.11.2026)
+- MAKSYMALNY akceptowalny koszt z wysyłką: 35,43 zł (cena ≥3x koszt i marża ≥80 zł)
+- Czas dostawy: do sprawdzenia; przed świętami kluczowe (z Chin 8–18 dni, więc ostatnie zamówienia świąteczne ok. 1–5.12, chyba że dostawca ma magazyn w UE)
+- Wymagania wobec próbki: wkład ze szklanych kulek (nie żel), waga ok. 180 g, pełne zaciemnienie, materiał bez chemicznego zapachu, pranie w pralce
 
 ## Cena i oferta
 
-- Konkurent Holdmate (10.11.2026): 29 $ = 113,68 zł (przekreślone 39 $). „Early Black Friday do −65%”, 90 dni gwarancji zwrotu pieniędzy, 463 opinie. Dodatki: Pouch Kit, metalowe łatki, Essential Bundle
-- Konkurent Keeply.pl: 79,99 zł (przekreślone 99,99 zł)
-- Cena sprzedaży: 89 zł za 1 szt. (blisko Keeply, poniżej Holdmate)
-- Zestaw: 2 szt. za 149 zł (dla pary lub rodziny na narty), główna oferta w reklamach
-- Opłaty za płatności (3%): 2,67 zł przy 89 zł
-- Marża na sztuce: 66,33 zł przy koszcie 20 zł; 61,33 zł przy koszcie 25 zł (koszt to szacunek)
-- Marża na zestawie 2 szt. (149 zł, koszt 40 zł): 104,53 zł
-- Próg CPA (maks. koszt reklamy na 1 zamówienie): 66,33 zł dla 1 szt. (61,33 zł przy koszcie 25 zł); 104,53 zł dla zestawu
-- ROAS na zero: 1,34 dla 1 szt. (1,45 przy koszcie 25 zł); 1,43 dla zestawu
-- UWAGA: przy cenie konkurencyjnej (89 zł) pojedyncza sztuka NIE spełnia kryterium „marża ≥80 zł” z researchu; spełnia je dopiero zestaw 2 szt. Dlatego zestaw ma być główną ofertą
-- WERDYKT: BIORĘ (warunkowo). Marża 61–66 zł na sztuce i 104 zł na zestawie przekracza próg 40 zł, a Holdmate reklamuje produkt od 10 miesięcy (2815 aktywnych reklam). Warunki: koszt z wysyłką ≤25 zł, próbka sprawdzająca mocowanie łatki, dostawa przed świętami
+- Konkurent Mellow Sleep (10.11.2026): 29,99 $ = 117,56 zł (przekreślone 44,99 $ = 176,36 zł); „Up to 50% Off Sitewide” z odliczaniem; darmowa maska przy zamówieniu od 120 $ (kod EYEMASK); 30 dni na test; 6 kolorów; dwie strony (chłodna i ciepła); 180 g szklanych kulek; „blokuje 99% światła”; „Deep Pressure Stimulation”
+- Podobne produkty w PL: kompresyjna maska Brownmed na desertcart.pl za 135 zł, chłodząca Optase za 107 zł
+- Cena sprzedaży: 119 zł
+- Zestaw: 2 szt. za 199 zł („dla Ciebie i dla mamy”, prezent)
+- Opłaty za płatności (3%): 3,57 zł
+- Marża na sztuce: 95,43 zł przy koszcie 20 zł (szacunek); 80,62 zł w najgorszym wariancie (koszt 34,81 zł)
+- Marża na zestawie 2 szt. (199 zł, koszt 40 zł): 153,03 zł
+- Próg CPA (maks. koszt reklamy na 1 zamówienie): 95,43 zł (najgorszy wariant 80,62 zł); dla zestawu 153,03 zł
+- ROAS na zero: 1,25 (najgorszy wariant 1,48); dla zestawu 1,30
+- Maksymalny koszt pozyskania klienta (próg rentowności): 95,43 zł
+- WERDYKT: BIORĘ. Marża ok. 95 zł to ponad 2 razy próg 40 zł, a marka reklamuje maskę od maja 2026 i przyspiesza (+24% reklam w tydzień); w PL tylko 2 małe sklepy. Warunek: koszt z wysyłką ≤35 zł i próbka
 
 ## Marka
 
@@ -90,3 +89,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Ręcznik-pokrowiec zdegradowany: w reklamach PL pusto, ale to pospolity towar (Action 12,95 zł, Allegro Lokalnie 67,98 zł, Kaufland 110–282 zł) | Właściciel chce mocnego, nieprzeruchanego produktu. Nowi kandydaci (runda 2 w raporcie): Holdmate (linka do telefonu dla narciarzy, przychód 0,55–1,1 mln $/mies., w PL tylko Keeply.pl) na teraz; Bryngrill (kosz do grilla, +49% reklam w tydzień, w PL 0) na wiosnę. Decyzja o produkcie: do potwierdzenia przez właściciela |
 | 2026-11-10 | Wybrany produkt: linka zabezpieczająca telefon dla narciarzy (wzór Holdmate). Werdykt BIORĘ warunkowo, cena 89 zł / zestaw 2 szt. 149 zł | Decyzja właściciela. Holdmate: 2815 aktywnych reklam od 01.2026; w PL Keeply.pl za 79,99 zł z wysyłką 1–2 dni, więc nasza przewaga to kąt narciarski i zestaw. Marża na sztuce 61–66 zł (poniżej celu 80 zł), na zestawie 104 zł |
 | 2026-11-10 | KONIEC SZUKANIA: startujemy z linką, bez dalszego zmieniania produktu | Właściciel chce startować od zaraz. Linka ma największy potwierdzony popyt ze wszystkich sprawdzonych produktów, w PL jednego słabego konkurenta, sezon zaczyna się teraz. Plan: próbka + strona + kreacje równolegle, test reklam po gotowej stronie |
+| 2026-11-10 | Pełny research v2 pod sezon do świąt. ZMIANA FAWORYTA: obciążeniowa maska na oczy do spania (wcześniej linka) | Na prośbę właściciela powtórzony research. Maska ma najsilniejszy popyt ze wszystkich (11,4 tys. reklam, +24%/tydz.), marżę ok. 95 zł na sztuce (linka 61–66 zł) i tylko 2 małe sklepy w PL; linka spada na 4. miejsce, bo Keeply.pl sprzedaje ją za 79,99 zł z wysyłką 1–2 dni. Raport: `wyniki/2026-11-10-research-v2-swieta.md` |
