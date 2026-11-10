@@ -179,3 +179,53 @@ Ranking jest ułożony pod test **200 zł dziennie**, jak prosiłeś. W biznes.m
 - Za: marża ok. 100 zł to ponad 2 razy próg 40 zł. Konkurent reklamuje kaczkę od grudnia 2023 i wciąż dokłada nowe reklamy (ostatnia 06.11.2026). Sezon prezentów świątecznych dla psiarzy właśnie się zaczyna.
 - Ryzyko: w PL od 08.11.2026 działa już Psia Przytulanka z 7 reklamami na te same kąty, więc okno się zamyka. Przy kaczce trzeba ruszyć w ciągu 1–2 tygodni, a nie za miesiąc.
 - Ryzyko jakości: oryginał ma słabe opinie o trwałości, więc próbka jest obowiązkowa.
+
+---
+
+## Runda 2: czy ręcznik jest przeruchany? Szukanie świeżych produktów (10.11.2026)
+
+**Ręcznik-pokrowiec: zdegradowany.**
+- W reklamach na Facebooku w PL nikt go nie promuje, ale to pospolity towar, który klient łatwo porówna:
+  - pokrowiec C&C w Action: 12,95 zł
+  - wodoodporny pokrowiec dla psa na Allegro Lokalnie: 67,98 zł
+  - wodoodporne pokrowce na Kauflandzie: 109,79–282 zł
+- Słaby efekt wow i łatwe porównanie cen. Nie spełnia warunku „naprawdę mocny”.
+
+**Jak szukałem w rundzie 2** [WH]:
+- sklepy z maks. 30 produktami,
+- produkt dodany od 05.2026,
+- aktywnych reklam co najmniej 30, przyrost co najmniej 30% w miesiąc,
+- cena 25–150.
+
+### A. Holdmate: linka zabezpieczająca telefon przed upadkiem (narty, góry)
+
+- Sklep: https://holdmategear.com
+- Produkt: https://holdmategear.com/products/holdmate-anti-drop-strap
+- Aktywne reklamy: Holdmate 2277 + Holdmate Gear 503. Najstarsza: 10.01.2026 [WH].
+- Format: wideo i statyka. Kąt: „Ask any skier: keeping your phone safe on the lift is usually a worry… Universal fit”.
+- Przychód: **550 tys.–1,1 mln $ / 30 dni**. Ruch rośnie: 10 tys. (01) → 92 tys. (09.2026) [WH].
+- Cena: Holdmate Pro 29 $ = 113,68 zł, Pouch Kit 39 $ = 152,88 zł. Średnie zamówienie tylko 25,95 $, czyli mocno rabatują.
+- Słabości z opinii: słabe mocowanie do etui, kompatybilność z niektórymi etui.
+- Polska: **SŁABO**. „zabezpieczenie telefonu przed upadkiem”: tylko Keeply.pl (4 reklamy, od 10.03.2026, ostatnie 14.09 i 04.10.2026). Holdmate sam kieruje reklamy także na PL, po angielsku [META, WH].
+- Dla kogo: narciarz, który wyciąga telefon na wyciągu.
+- Ból: telefon wypada z ręki na wyciągu i ląduje w śniegu.
+- Efekt wow w 3 s: telefon wypada i wraca na lince.
+- Sezon w PL: grudzień–marzec, czyli start teraz.
+- Logistyka: mały, lekki, bez rozmiarów, bez baterii.
+- Koszt zakupu: do sprawdzenia.
+- Cena PL 119 zł: maks. koszt 35,43 zł. Cena PL 129 zł: maks. koszt 43 zł.
+
+### B. Bryngrill: obrotowy kosz do grilla
+
+- Sklep: https://bryngrill.com
+- Produkt: https://bryngrill.com/products/rolling-basket
+- Aktywne reklamy: **8841, tydzień wcześniej 5934 (+49%)**. Najstarsza w wynikach: 09.2026 [WH].
+- Kąt: „Stop Losing Half Your Food Through The Grates”, prezent dla niego.
+- Przychód: 125–225 tys. € / 30 dni [WH].
+- Cena: 37,99 € = 166,67 zł.
+- Polska: **NIE**. „obrotowy kosz do grilla”: 0 trafnych reklam [META].
+- Minusy:
+  - teraz nie sezon,
+  - kontakt z żywnością wymaga deklaracji zgodności UE (sprzeczne z kryterium „bez certyfikatów”),
+  - Trustpilot 2,5, skargi na rdzę i odpadające zaślepki.
+- Wniosek: kandydat na wiosnę (start w marcu), nie na teraz.
