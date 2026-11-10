@@ -132,3 +132,50 @@ Wzór: maks. koszt = min(cena ÷ 3; cena × 0,97 − 80).
 ## Uwaga do budżetu
 
 Ranking jest ułożony pod test **200 zł dziennie**, jak prosiłeś. W biznes.md zapisaliśmy jednak budżet **do 1 000 zł łącznie i 50–100 zł dziennie**. Przy 200 zł dziennie pieniądze na reklamy skończą się po około 4 dniach.
+
+---
+
+## Weryfikacja nr 2: uspokajająca kaczka dla psa (10.11.2026)
+
+**1. Biblioteka Reklam Meta**
+- Strona The Mellow Dog ma **118 aktywnych reklam** [META]. To reklamy całego sklepu: kaczka, gryzaki dentystyczne, „żółw do wyprowadzania psa”, piłka JUMBO, UFO.
+- W próbce 50 najnowszych reklam 6 dotyczy kaczki („Dogs' Emotional Support Duck”). Starty: 17.09, 20.09, 06.10, 17.10, 23.10 i 06.11.2026 [META]. Marka cały czas dokłada nowe reklamy kaczki.
+- Najstarsza aktywna reklama kaczki: **17.12.2023** [WH, reklama 330306393216100]. Biblioteka pokazała mi tylko 50 najnowszych reklam, więc tę datę potwierdź w linku.
+- Biblioteka: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&view_all_page_id=319717832243842
+- Reklama z 2023: https://www.facebook.com/ads/library/?id=330306393216100
+
+**2. Sklep konkurenta** (https://themellowdog.com/products/calming-duck)
+- Cena: 59,99 $ = 235,15 zł (przekreślona 99,99 $ = 391,95 zł).
+- Black Friday „do −60%”, darmowa wysyłka na cały świat:
+  - 1 szt.: 53,99 $ = 211,64 zł
+  - 2 szt.: 47,99 $/szt. = 188,12 zł
+  - 3 szt.: 41,99 $/szt. = 164,60 zł, oznaczone jako „Most popular”
+- Obietnice: mniej nudy i samotności, rozładowanie energii i lęku. „Do gryzienia, ale nie niezniszczalna”. Ocena 4,9/5 z 216 opinii na stronie.
+- Gwarancja: nie podana. Na Trustpilot ocena 2,0, głównie skargi na trwałość [WH].
+- Produkt: 38 × 45 cm, poliester, kwacze, pranie w pralce i suszarce, 1 wariant.
+- Wysyłka 3–12 dni do Europy. Miejsca nadania strona nie podaje.
+
+**Polski konkurent: Psia Przytulanka** [META, strona 1467283136468196]
+- 7 reklam, wszystkie wystartowały **08.11.2026**.
+- Hasła:
+  - „Kaczka, która wygrywa z kapciami”
+  - „Gryzie kaczkę zamiast poduszek”
+  - „Przytulanka na pierwsze noce”
+  - „Wieczór dla Ciebie, kaczka dla niego”
+  - „8 do 18 dni, bez dopłat przy odbiorze”, co oznacza wysyłkę z Chin
+- Cena: **do sprawdzenia**. Nie znalazłem adresu ich sklepu, więc kliknij w reklamę: https://www.facebook.com/ads/library/?id=1616009639570690
+- Markowy odpowiednik w PL: KONG Comfort JumboDuck na kaufland.pl (cena do sprawdzenia).
+
+**3. Wyliczenia** (cena PL 149 zł, opłaty 3% = 4,47 zł)
+- Koszt zakupu z wysyłką: **do sprawdzenia**. Szacunek do obliczeń: 45 zł.
+  - Marża na 1 szt.: **99,53 zł**
+  - Próg CPA: **99,53 zł**
+  - ROAS na zero: **1,50**
+- Przy maksymalnym koszcie spełniającym kryteria (49,67 zł): marża 94,86 zł, ROAS 1,57.
+- Próg odpuszczenia (marża 40 zł): koszt musiałby przekroczyć 104,53 zł.
+- Zestaw 2 szt. za 249 zł (przy 45 zł/szt.): marża 151,53 zł, ROAS na zero 1,64.
+
+**4. Werdykt: BIORĘ, ale jako produkt nr 2, nie zamiast ręcznika.**
+- Za: marża ok. 100 zł to ponad 2 razy próg 40 zł. Konkurent reklamuje kaczkę od grudnia 2023 i wciąż dokłada nowe reklamy (ostatnia 06.11.2026). Sezon prezentów świątecznych dla psiarzy właśnie się zaczyna.
+- Ryzyko: w PL od 08.11.2026 działa już Psia Przytulanka z 7 reklamami na te same kąty, więc okno się zamyka. Przy kaczce trzeba ruszyć w ciągu 1–2 tygodni, a nie za miesiąc.
+- Ryzyko jakości: oryginał ma słabe opinie o trwałości, więc próbka jest obowiązkowa.

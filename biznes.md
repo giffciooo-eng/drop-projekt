@@ -19,6 +19,7 @@ Puste pola oznaczone są „—”.
   - „wodoodporny ręcznik na siedzenie samochodowe”: 0 reklam
   - „pokrowiec na siedzenie dla psa”: tylko vigoshop i Uunnder PL (hamak dla psa, ta sama kreacja, start 18–19.10.2026) oraz Be-Active.pl (reklama katalogowa)
 - Pełny research 5 kandydatów: `wyniki/2026-11-10-research-produktow.md`
+- Produkt rezerwowy nr 2: uspokajająca kaczka dla psa (wzór: The Mellow Dog, 59,99 $). Werdykt BIORĘ jako drugi test: marża ok. 100 zł przy cenie 149 zł, ROAS na zero 1,50. W PL od 08.11.2026 reklamuje ją Psia Przytulanka (7 reklam). Szczegóły w `wyniki/2026-11-10-research-produktow.md`, sekcja „Weryfikacja nr 2”
 
 ## Dostawca i koszt
 
@@ -81,3 +82,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Research 5 produktów (Winning Hunter + Biblioteka Reklam Meta). Ranking: 1. ręcznik-pokrowiec na siedzenie, 2. uspokajająca kaczka dla psa, 3. filtr do kąpieli dla dzieci, 4. pokrowiec na krzesło dla kota, 5. żelowa poduszka | Szczegóły w `wyniki/2026-11-10-research-produktow.md`. Tylko 1 i 2 spełniają wszystkie kryteria; 3 ma konkurencję w kategorii filtrów w PL, 4 odpada na rozmiarówce, 5 na konkurencji w PL |
 | 2026-11-10 | Wybrany produkt: wodoodporny ręcznik-pokrowiec na siedzenie, werdykt BIORĘ (warunkowo) | Marża ok. 104 zł, ROAS na zero 1,53, 492 aktywne reklamy konkurenta od maja 2026, 0 reklam tej frazy w PL. Warunek: koszt u dostawcy ≤53 zł z wysyłką + próbka |
 | 2026-11-10 | UWAGA: ranking liczony pod test 200 zł/dzień, a budżet w pliku to 50–100 zł/dzień i do 1 000 zł łącznie | Do decyzji właściciela przed startem kampanii: przy 200 zł/dzień reklamy skończą się po ok. 4 dniach |
+| 2026-11-10 | Kaczka dla psa: werdykt BIORĘ jako produkt nr 2, nie zamiast ręcznika | Marża ok. 100 zł, konkurent reklamuje ją od 12.2023. Polski sklep Psia Przytulanka wystartował 08.11.2026, więc jeśli kaczka, to w ciągu 1–2 tygodni. Słabe opinie o trwałości oryginału, więc próbka obowiązkowa |
