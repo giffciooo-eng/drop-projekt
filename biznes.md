@@ -23,7 +23,11 @@ Puste pola oznaczone są „—”.
 ## Dostawca i koszt
 
 - Dostawca: do sprawdzenia. Szukać: „retractable phone tether patch”, „anti-drop phone lanyard tether patch skiing”. Najlepiej dostawca z magazynem w UE/PL, bo Keeply wysyła w 1–2 dni, a z Chin to 8–18 dni (ważne przed świętami)
-- Link do produktu u dostawcy: do sprawdzenia
+- Link do produktu u dostawcy (kandydaci znalezieni 10.11.2026, cena i dostawa do PL do sprawdzenia przez właściciela):
+  - Temu, zestaw 2 linki + 4 łatki + 2 karabińczyki (pasuje do oferty „zestaw 2 szt.”): https://www.temu.com/phone-tether-lanyard-anti-theft-phone-strap-with-carabiner-anti-drop-outdoor-skiing-hiking-cycling-fishing-climbing-fit-for-iphone-and-most-cell-phone-2-tether-4-patch-2-carabiner-clip-g-601099536100768.html
+  - Temu, pojedyncza linka z karabińczykiem: https://www.temu.com/phone-tether-lanyard-anti-theft-phone-strap-with-carabiner-anti-drop-outdoor-skiing-hiking-cycling-fishing-climbing-for-iphone-and-most-cell-phone-g-601099528362167.html
+  - AliExpress, zwijana stalowa linka z karabińczykiem: https://www.aliexpress.com/i/3256808446567734.html
+- Ryzyko: ten sam typ produktu jest na Temu, więc klient może go znaleźć taniej. Bronimy się kątem narciarskim, zestawem i szybką obsługą
 - Koszt zakupu za sztukę z wysyłką do PL: do sprawdzenia. Szacunek 20–25 zł. Ceny detaliczne podobnych linek na Walmart: 4,74–14,99 $ (18,58–58,76 zł), zwijane ze stalową linką 7,88–9,99 $ (30,89–39,16 zł)
 - Maksymalny koszt z wysyłką: 25 zł (żeby marża na sztuce zostawała ≥60 zł). Próg odpuszczenia (marża 40 zł): 46,33 zł
 - Czas dostawy: do sprawdzenia, przed świętami kluczowe
@@ -85,3 +89,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Kaczka dla psa: werdykt BIORĘ jako produkt nr 2, nie zamiast ręcznika | Marża ok. 100 zł, konkurent reklamuje ją od 12.2023. Polski sklep Psia Przytulanka wystartował 08.11.2026, więc jeśli kaczka, to w ciągu 1–2 tygodni. Słabe opinie o trwałości oryginału, więc próbka obowiązkowa |
 | 2026-11-10 | Ręcznik-pokrowiec zdegradowany: w reklamach PL pusto, ale to pospolity towar (Action 12,95 zł, Allegro Lokalnie 67,98 zł, Kaufland 110–282 zł) | Właściciel chce mocnego, nieprzeruchanego produktu. Nowi kandydaci (runda 2 w raporcie): Holdmate (linka do telefonu dla narciarzy, przychód 0,55–1,1 mln $/mies., w PL tylko Keeply.pl) na teraz; Bryngrill (kosz do grilla, +49% reklam w tydzień, w PL 0) na wiosnę. Decyzja o produkcie: do potwierdzenia przez właściciela |
 | 2026-11-10 | Wybrany produkt: linka zabezpieczająca telefon dla narciarzy (wzór Holdmate). Werdykt BIORĘ warunkowo, cena 89 zł / zestaw 2 szt. 149 zł | Decyzja właściciela. Holdmate: 2815 aktywnych reklam od 01.2026; w PL Keeply.pl za 79,99 zł z wysyłką 1–2 dni, więc nasza przewaga to kąt narciarski i zestaw. Marża na sztuce 61–66 zł (poniżej celu 80 zł), na zestawie 104 zł |
+| 2026-11-10 | KONIEC SZUKANIA: startujemy z linką, bez dalszego zmieniania produktu | Właściciel chce startować od zaraz. Linka ma największy potwierdzony popyt ze wszystkich sprawdzonych produktów, w PL jednego słabego konkurenta, sezon zaczyna się teraz. Plan: próbka + strona + kreacje równolegle, test reklam po gotowej stronie |
