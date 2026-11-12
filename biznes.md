@@ -16,9 +16,11 @@ Puste pola oznaczone są „—”.
   - najstarsza widoczna reklama maski od 16.05.2026 (Winning Hunter, reklama 956498357101931)
   - marka weszła do sieci Target; 4,7/5 z 1064 opinii na stronie
   - Biblioteka: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&view_all_page_id=583724811498012
-- Konkurencja w Polsce (Biblioteka Reklam Meta, 10.11.2026): słaba
-  - „obciążeniowa maska”: Miyego (5 reklam od 16–17.10.2026, „Fizyczny wyłącznik dla twoich myśli”, rozliczenie w EUR) i Pacifika Sklep (1 reklama od 10.10.2026)
-  - „maska na oczy do spania”: w pierwszych 15 wynikach brak masek do spania
+- Konkurencja w Polsce (dokładne sprawdzenie 12.11.2026): NIE przeruchane, ale okno się zawęża
+  - Reklamy PO POLSKU z maską obciążeniową: tylko 2 sklepy. Miyego (5 reklam PL od 16–17.10.2026) i Pacifika Sklep (1 reklama od 10.10.2026). Frazy bez trafień: „maska obciążona”, „maska do spania”, „opaska na oczy do spania”, „nie możesz zasnąć” (w pierwszych wynikach żadnego sklepu z maską)
+  - GŁÓWNE ZAGROŻENIE: Miyego (https://miyego.com/products/the-weighted-sleep-mask) to europejski sklep, który wchodzi z maską do wielu krajów naraz (reklamy po niemiecku, czesku, słowacku, węgiersku, szwedzku i polsku; 1144 reklamy w Bibliotece Meta łącznie, najnowsze z 02–10.11.2026). Cena 29,90 € = 131,18 zł (przekreślone 34,95 €), maska 330 g, 114 opinii 4,8, wysyłka 3–5 dni robocze (magazyn w UE), 30 nocy gwarancji. 12.11.2026 wszystkie warianty oznaczone „sold out”
+  - Pośrednia konkurencja (inne produkty do spania, reklamy po angielsku kierowane też na PL): Kitsch (maska konturowa 3D, 35 $), Mindsparkl (zestaw do spania w podróży, 33,99 $). Tanie maski 3D w PL: 17,99–59,99 zł (Kaufland), jedwabne 108–148 zł (Notino)
+  - Wniosek: cena 119 zł (poniżej Miyego 131 zł), kąt „prezent” i zestaw 2 szt.; w reklamie pokazać, że to maska OBCIĄŻENIOWA (180 g szklanych kulek), żeby nie porównywano jej z maską 3D za 18 zł; startować szybko i co tydzień sprawdzać liczbę polskich reklam Miyego
 - Produkty rezerwowe (pełny opis w `wyniki/2026-11-10-research-v2-swieta.md`): 2. przedłużka offsetowa do grzechotki (prezent dla majsterkowicza), 3. uspokajająca kaczka dla psa, 4. linka do telefonu dla narciarzy, 5. filtr do kąpieli dla dzieci z AZS
 
 ## Dostawca i koszt
@@ -98,3 +100,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | KONIEC SZUKANIA: startujemy z linką, bez dalszego zmieniania produktu | Właściciel chce startować od zaraz. Linka ma największy potwierdzony popyt ze wszystkich sprawdzonych produktów, w PL jednego słabego konkurenta, sezon zaczyna się teraz. Plan: próbka + strona + kreacje równolegle, test reklam po gotowej stronie |
 | 2026-11-10 | Pełny research v2 pod sezon do świąt. ZMIANA FAWORYTA: obciążeniowa maska na oczy do spania (wcześniej linka) | Na prośbę właściciela powtórzony research. Maska ma najsilniejszy popyt ze wszystkich (11,4 tys. reklam, +24%/tydz.), marżę ok. 95 zł na sztuce (linka 61–66 zł) i tylko 2 małe sklepy w PL; linka spada na 4. miejsce, bo Keeply.pl sprzedaje ją za 79,99 zł z wysyłką 1–2 dni. Raport: `wyniki/2026-11-10-research-v2-swieta.md` |
 | 2026-11-10 | Dostawca maski: Teemdrop, bez zamawiania próbki | Decyzja właściciela. Ryzyko jakości ograniczamy zdjęciami kontroli jakości od Teemdropa. Warianty „1 szt./2 szt.” muszą być zmapowane w Teemdropie, żeby zamówienia na 2 sztuki realizowały się automatycznie |
+| 2026-11-12 | Dokładne sprawdzenie nasycenia maski w PL: NIE przeruchana (2 sklepy po polsku), ale Miyego wchodzi do wielu krajów UE jednocześnie, 29,90 €, wysyłka 3–5 dni | Zostajemy przy masce. Warunki: start szybko, cena 119 zł, kąt prezentowy, zapytać Teemdrop o magazyn w UE (Miyego dowozi w 3–5 dni). Próg ponownej oceny: >3 polskie sklepy albo >20 polskich reklam Miyego |
