@@ -5,6 +5,7 @@ const OFERTA = {
   2: { cena: 199, dostawa: 0, tytul: "2 maski", opis: "99,50 zł za sztukę · oszczędzasz 79 zł" },
 };
 const KOLORY = { Czarny: "#1d1d22", Szary: "#9b9ca3", "Różowy": "#e8b8c4" };
+const ZDJECIA = { Czarny: "img/packshot-czarna.jpg", Szary: "img/packshot-szara.jpg", "Różowy": "img/packshot-rozowa.jpg" };
 
 const zl = (n) => (Number.isInteger(n) ? String(n) : n.toFixed(2).replace(".", ",")) + " zł";
 const state = { kolor: "Szary", zestaw: 1 };
@@ -26,11 +27,18 @@ function render() {
 
 document.addEventListener("click", (e) => {
   const sw = e.target.closest(".sw");
-  if (sw) { state.kolor = sw.dataset.kolor; render(); }
+  if (sw) {
+    state.kolor = sw.dataset.kolor; render();
+    const main = document.querySelector(".gal-main");
+    if (main) main.innerHTML = `<img data-color-img src="${ZDJECIA[state.kolor]}" alt="Maska Usnij, kolor ${state.kolor.toLowerCase()}">`;
+    document.querySelectorAll("[data-color-img]").forEach((img) => (img.src = ZDJECIA[state.kolor]));
+    document.querySelectorAll(".thumb").forEach((t) => t.setAttribute("aria-current", String(t.dataset.kolorThumb === state.kolor)));
+  }
   const set = e.target.closest(".set");
   if (set) { state.zestaw = Number(set.dataset.zestaw); render(); }
   const th = e.target.closest(".thumb");
   if (th) {
+    if (th.dataset.kolorThumb) { state.kolor = th.dataset.kolorThumb; render(); }
     document.querySelectorAll(".thumb").forEach((t) => t.setAttribute("aria-current", String(t === th)));
     const main = document.querySelector(".gal-main");
     if (main) main.innerHTML = th.dataset.html;
