@@ -43,6 +43,8 @@ document.addEventListener("click", (e) => {
     const main = document.querySelector(".gal-main");
     if (main) main.innerHTML = th.dataset.html;
   }
+  const pick = e.target.closest("[data-pick-set]");
+  if (pick) { state.zestaw = Number(pick.dataset.pickSet); render(); }
   const atc = e.target.closest("[data-atc]");
   if (atc) {
     const o = OFERTA[state.zestaw];
