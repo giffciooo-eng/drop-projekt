@@ -31,7 +31,8 @@ Puste pola oznaczone są „—”.
   - Oferta B (PREFEROWANA, najbliższa wzorowi Mellow): klasyczna maska z kulkami szklanymi, waga 240 g, jedna strona chłodząca (gładka „jedwabna” tkanina), druga ciepła; 6 kolorów; opis wspomina wersję „ważoną” i „nieważoną” oraz „czas nagrzewania 3–5 minut” i „masaż oczu”. Do wyjaśnienia: które kolory to wersja z kulkami; czy podgrzewanie jest w mikrofalówce czy elektryczne (USB/grzałka = elektronika, wymaga certyfikatów, wtedy odpada); czy tkanina to prawdziwy jedwab (jeśli nie, nie piszemy „jedwab”)
   - Oferta B na Teemdropie (zrzut ekranu 12.11.2026): warianty „Gravity Beads” (z kulkami: czarny, fioletowy, niebieski, szary, różowy, zielony awokado) i „Smooth Cool” (gładkie chłodzące, prawdopodobnie bez kulek; NIE bierzemy). Na zdjęciu wersja z kulkami to polarowa opaska z kieszeniami na kulki, bez kabla. Waga wysyłkowa 362 g
   - Koszt przy wysyłce do USA (TDPacket Ordinary Promo): produkt 4,18 $ + wysyłka 9,59 $ = 13,77 $ = 53,98 zł (kurs NBP 9.11.2026); realizacja 1–3 dni, dostawa 7–15 dni
-  - DO SPRAWDZENIA: koszt i czas dostawy do POLSKI (zmienić „Ship To” na Poland). Progi: łącznie ≤35 zł (8,93 $) → cena 119 zł; ≤43 zł (10,97 $) → cena 129 zł; ≤46,33 zł (11,82 $) → cena 139 zł; drożej → tylko zestawy albo inna oferta
+  - Koszt przy wysyłce do POLSKI (TDPacket Ordinary Promo, 12.11.2026): produkt 4,18 $ + wysyłka 11,37 $ = 15,55 $ = 60,95 zł; realizacja 1–3 dni + dostawa 7–15 dni. Wysyłka to 73% kosztu, bo paczka waży 362 g
+  - Do sprawdzenia: tańsze metody wysyłki w Teemdropie (lista „By Shipping Method”) i koszt przy ilości 2 szt.; zakładka „Quality Inspection Images” zamiast próbki
 - Zapasowi dostawcy (linki znalezione 10.11.2026, gdyby Teemdrop nie miał tej maski):
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-migraines-cold-hot-compress-care-ultra-fine-glass-bead-bag-for-headaches-sinus-puffy-eyes-dark-circles-light-blocking-eye-pillow-universal-size-g-601099537507804.html
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-cooling-cozy-reversible-blackout-sleep-mask-for-women-men-microwave-freezable-heavy-blindfold-for-migraine-travel-meditation-0-55lbs-grey-g-601105406376780.html
@@ -44,6 +45,15 @@ Puste pola oznaczone są „—”.
 
 ## Cena i oferta
 
+- AKTUALIZACJA 12.11.2026 (prawdziwy koszt z Teemdropa, wysyłka do PL): koszt 60,95 zł za 1 szt.; sklep pobiera od klienta 12,99 zł za dostawę przy zamówieniu poniżej 199 zł, a od 199 zł dostawa jest darmowa (sprawdzone w ustawieniach Shopify)
+  - 119 zł + 12,99 zł dostawy: marża 67,08 zł, ROAS na zero 1,97
+  - 129 zł + 12,99 zł: marża 76,78 zł, ROAS na zero 1,85
+  - 139 zł + 12,99 zł: marża 86,48 zł, ROAS na zero 1,76 (REKOMENDACJA dla 1 szt.)
+  - 149 zł + 12,99 zł: marża 96,18 zł, ROAS na zero 1,68
+  - 2 szt. za 199 zł z darmową dostawą (GŁÓWNA OFERTA): marża 71,13 zł w najgorszym wariancie (koszt 2 × 60,95 zł), ok. 95 zł jeśli wysyłka 2 szt. kosztuje ok. 25 $
+  - Kryterium „cena ≥3x koszt” NIE jest spełnione przy tej wysyłce (ok. 2,3–2,5x). Kryterium „marża ≥80 zł” spełnione od 139 zł
+- Poniższe wyliczenia z 10.11 opierały się na szacunku kosztu 20 zł i są NIEAKTUALNE:
+
 - Konkurent Mellow Sleep (10.11.2026): 29,99 $ = 117,56 zł (przekreślone 44,99 $ = 176,36 zł); „Up to 50% Off Sitewide” z odliczaniem; darmowa maska przy zamówieniu od 120 $ (kod EYEMASK); 30 dni na test; 6 kolorów; dwie strony (chłodna i ciepła); 180 g szklanych kulek; „blokuje 99% światła”; „Deep Pressure Stimulation”
 - Podobne produkty w PL: kompresyjna maska Brownmed na desertcart.pl za 135 zł, chłodząca Optase za 107 zł
 - Cena sprzedaży: 119 zł
@@ -54,7 +64,7 @@ Puste pola oznaczone są „—”.
 - Próg CPA (maks. koszt reklamy na 1 zamówienie): 95,43 zł (najgorszy wariant 80,62 zł); dla zestawu 153,03 zł
 - ROAS na zero: 1,25 (najgorszy wariant 1,48); dla zestawu 1,30
 - Maksymalny koszt pozyskania klienta (próg rentowności): 95,43 zł
-- WERDYKT: BIORĘ. Marża ok. 95 zł to ponad 2 razy próg 40 zł, a marka reklamuje maskę od maja 2026 i przyspiesza (+24% reklam w tydzień); w PL tylko 2 małe sklepy. Warunek: koszt z wysyłką z Teemdropa ≤35 zł (wyliczenia do aktualizacji po podaniu kosztu)
+- WERDYKT (aktualizacja 12.11.2026): BIORĘ, ale z wyższą ceną. Prawdziwy koszt z wysyłką do PL to 60,95 zł, więc przy 139 zł + 12,99 zł dostawy marża wynosi 86,48 zł (ponad 2x próg 40 zł), a zestaw 2 szt. za 199 zł daje co najmniej 71 zł. Popyt bez zmian: Mellow +24% reklam w tydzień, w PL 2 sklepy (Miyego 131 zł, wyprzedane)
 
 ## Marka
 
@@ -107,3 +117,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Pełny research v2 pod sezon do świąt. ZMIANA FAWORYTA: obciążeniowa maska na oczy do spania (wcześniej linka) | Na prośbę właściciela powtórzony research. Maska ma najsilniejszy popyt ze wszystkich (11,4 tys. reklam, +24%/tydz.), marżę ok. 95 zł na sztuce (linka 61–66 zł) i tylko 2 małe sklepy w PL; linka spada na 4. miejsce, bo Keeply.pl sprzedaje ją za 79,99 zł z wysyłką 1–2 dni. Raport: `wyniki/2026-11-10-research-v2-swieta.md` |
 | 2026-11-10 | Dostawca maski: Teemdrop, bez zamawiania próbki | Decyzja właściciela. Ryzyko jakości ograniczamy zdjęciami kontroli jakości od Teemdropa. Warianty „1 szt./2 szt.” muszą być zmapowane w Teemdropie, żeby zamówienia na 2 sztuki realizowały się automatycznie |
 | 2026-11-12 | Dokładne sprawdzenie nasycenia maski w PL: NIE przeruchana (2 sklepy po polsku), ale Miyego wchodzi do wielu krajów UE jednocześnie, 29,90 €, wysyłka 3–5 dni | Zostajemy przy masce. Warunki: start szybko, cena 119 zł, kąt prezentowy, zapytać Teemdrop o magazyn w UE (Miyego dowozi w 3–5 dni). Próg ponownej oceny: >3 polskie sklepy albo >20 polskich reklam Miyego |
+| 2026-11-12 | Prawdziwy koszt maski z Teemdropa do PL: 60,95 zł (wysyłka 44,57 zł). Cena 1 szt. 139 zł + 12,99 zł dostawy, główna oferta 2 szt. za 199 zł z darmową dostawą | Przy 119 zł marża byłaby tylko 67 zł. 139 zł jest blisko Miyego (131 zł) i daje 86 zł marży. Zestaw za 199 zł przekracza próg darmowej dostawy, więc klient widzi oszczędność. Do sprawdzenia: tańsza metoda wysyłki i koszt 2 szt. w Teemdropie |
