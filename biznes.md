@@ -89,7 +89,7 @@ Puste pola oznaczone są „—”.
   - „Otulaj Uścisk, zestaw 3w1: termofor do noszenia na okres i plecy”: AKTYWNY, 159 zł, warianty 1/2/3 zestawy (249/318 zł)
   - „Otulaj Łapa, chłonna mata na błotniste łapy psa 50×80 cm”: SZKIC, 149 zł / 2 szt. 249 zł
   - „Chwila dla Siebie, Zestaw do Haftu”: ZARCHIWIZOWANY
-- Konwencja nazw w sklepie: „Otulaj [Słowo], [co to jest i na jaki problem]”, oferta z wariantami 1 / 2 szt. Maskę nazwać w tym stylu (propozycja: „Otulaj Noc, obciążeniowa maska na oczy do spania”)
+- Dotychczasowa konwencja nazw w sklepie: „Otulaj [Słowo], [co to jest]”. Maska idzie pod nową marką: „Usnij, obciążeniowa maska na oczy do spania” (decyzja 12.11.2026)
 
 ## Reklamy
 
