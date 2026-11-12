@@ -45,33 +45,35 @@ Puste pola oznaczone są „—”.
 
 ## Cena i oferta
 
-- AKTUALIZACJA 12.11.2026 (prawdziwy koszt z Teemdropa, wysyłka do PL): koszt 60,95 zł za 1 szt.; sklep pobiera od klienta 12,99 zł za dostawę przy zamówieniu poniżej 199 zł, a od 199 zł dostawa jest darmowa (sprawdzone w ustawieniach Shopify)
-  - 119 zł + 12,99 zł dostawy: marża 67,08 zł, ROAS na zero 1,97
-  - 129 zł + 12,99 zł: marża 76,78 zł, ROAS na zero 1,85
-  - 139 zł + 12,99 zł: marża 86,48 zł, ROAS na zero 1,76 (REKOMENDACJA dla 1 szt.)
-  - 149 zł + 12,99 zł: marża 96,18 zł, ROAS na zero 1,68
-  - 2 szt. za 199 zł z darmową dostawą (GŁÓWNA OFERTA): koszt z Teemdropa 25,64 $ = 100,51 zł (wysyłka 2 szt. 17,28 $), marża 92,52 zł, ROAS na zero 2,15
-  - 3 szt. za 279 zł („trzecia gratis”, dostawa gratis): koszt szacunkowy 140,06 zł, marża ok. 130,57 zł (szacunek, do potwierdzenia w Teemdropie przy Qty 3)
-  - Kryterium „cena ≥3x koszt” NIE jest spełnione przy tej wysyłce (ok. 2,3–2,5x). Kryterium „marża ≥80 zł” spełnione od 139 zł
-- Poniższe wyliczenia z 10.11 opierały się na szacunku kosztu 20 zł i są NIEAKTUALNE:
+- OFERTA OSTATECZNA (decyzja 12.11.2026); koszty z Teemdropa z wysyłką do PL (TDPacket Ordinary Promo), kurs NBP USD 3,9199, opłaty za płatności 3% kwoty płaconej przez klienta:
 
-- Konkurent Mellow Sleep (10.11.2026): 29,99 $ = 117,56 zł (przekreślone 44,99 $ = 176,36 zł); „Up to 50% Off Sitewide” z odliczaniem; darmowa maska przy zamówieniu od 120 $ (kod EYEMASK); 30 dni na test; 6 kolorów; dwie strony (chłodna i ciepła); 180 g szklanych kulek; „blokuje 99% światła”; „Deep Pressure Stimulation”
-- Podobne produkty w PL: kompresyjna maska Brownmed na desertcart.pl za 135 zł, chłodząca Optase za 107 zł
-- Cena sprzedaży: 119 zł
-- Zestaw: 2 szt. za 199 zł („dla Ciebie i dla mamy”, prezent)
-- Opłaty za płatności (3%): 3,57 zł
-- Marża na sztuce: 95,43 zł przy koszcie 20 zł (szacunek); 80,62 zł w najgorszym wariancie (koszt 34,81 zł)
-- Marża na zestawie 2 szt. (199 zł, koszt 40 zł): 153,03 zł
-- Próg CPA (maks. koszt reklamy na 1 zamówienie): 95,43 zł (najgorszy wariant 80,62 zł); dla zestawu 153,03 zł
-- ROAS na zero: 1,25 (najgorszy wariant 1,48); dla zestawu 1,30
-- Maksymalny koszt pozyskania klienta (próg rentowności): 95,43 zł
-- WERDYKT (aktualizacja 12.11.2026): BIORĘ, ale z wyższą ceną. Prawdziwy koszt z wysyłką do PL to 60,95 zł, więc przy 139 zł + 12,99 zł dostawy marża wynosi 86,48 zł (ponad 2x próg 40 zł), a zestaw 2 szt. za 199 zł daje co najmniej 71 zł. Popyt bez zmian: Mellow +24% reklam w tydzień, w PL 2 sklepy (Miyego 131 zł, wyprzedane)
+| Wariant | Cena | Dostawa | Klient płaci | Koszt Teemdrop | Marża | ROAS na zero |
+|---|---|---|---|---|---|---|
+| 1 maska | 139 zł | 12,99 zł | 151,99 zł | 15,55 $ = 60,95 zł | 86,48 zł | 1,76 |
+| 2 maski („oszczędzasz 79 zł”) — GŁÓWNA OFERTA | 199 zł | gratis | 199 zł | 25,64 $ = 100,51 zł | 92,52 zł | 2,15 |
+| 3 maski („trzecia gratis”) | 279 zł | gratis | 279 zł | ok. 140,06 zł (szacunek, Qty 3 do sprawdzenia) | ok. 130,57 zł | ok. 2,14 |
+
+- Zysk z zestawu 2 szt. (92,52 zł) jest większy niż z 1 szt. (86,48 zł)
+- Dostawa: przy 1 szt. płatna 12,99 zł, od 199 zł gratis (obecne ustawienia sklepu, bez zmian); darmowa dostawa to dodatkowy powód, by wybrać zestaw
+- Cena przekreślona: NIE przy starcie (produkt nowy; Omnibus wymaga przy obniżce najniższej ceny z 30 dni). Promocja = prawdziwa oszczędność przy zestawie: „2 za 199 zł zamiast 278 zł”
+- Próg CPA (maks. koszt reklamy na 1 zamówienie, żeby wyjść na zero): 86,48 zł (1 szt.), 92,52 zł (2 szt.)
+- Kiedy obniżyć cenę: jeśli po 3–4 dniach testu klikają i dodają do koszyka, ale nie kupują: test 129 zł za 1 szt. (marża 76,78 zł), zestaw bez zmian
+- Kryterium z researchu „cena ≥3x koszt” nie jest spełnione przy tej wysyłce (ok. 2,3–2,5x); kryterium „marża ≥80 zł” spełnione
+- Konkurencja cenowa: Miyego 29,90 € = 131,18 zł (wysyłka 3–5 dni z UE, 12.11 wyprzedane); Mellow Sleep 29,99 $ = 117,56 zł (USA); podobne w PL: Brownmed 135 zł, Optase 107 zł; tanie maski 3D 17,99–59,99 zł
+- Wcześniejsze wyliczenia na szacunkach (koszt 20 zł, cena 119 zł) są nieaktualne; historia w `wyniki/2026-11-10-research-v2-swieta.md`
 
 ## Marka
 
-- Nazwa marki: —
-- Styl i kolory: —
-- Ton komunikacji: —
+- Nazwa marki: **Otulaj** (domena otulaj.pl, już podpięta do sklepu). Decyzja 12.11.2026
+- Nazwa produktu: **Otulaj Noc, obciążeniowa maska na oczy do spania**
+- Dlaczego Otulaj, a nie nowa marka (np. Usnij, usnij.pl wolna za 18 $): zero kosztów i czasu (domena, sklep i płatności już działają), „otulić się do snu” pasuje do maski i do prezentu na zimę, można dosprzedawać termofor Otulaj Uścisk w tym samym koszyku, brak ryzyka cudzego znaku towarowego. Odrzucone propozycje i domeny: `sklep/marka-i-oferta-propozycje.md`
+- Styl i kolory (propozycja): ciepło i spokój; wieczór, sypialnia, miękkie ciepłe światło; kolory produktu czarny, szary, różowy; zdjęcia jak przy Uścisku (generowane w Higgsfield)
+- Ton komunikacji: prosty, ciepły, konkretny, jak w opisie Uścisku; bez obietnic medycznych (nie piszemy: terapia, leczy, na bezsenność, masaż); piszemy: ciemność, cisza, spokój, ciepło, wyciszenie
+- Obietnica produktu: „Ciemność i delikatny ciężar na powiekach, dzięki którym łatwiej się wyciszyć przed snem.”
+- Najczęstsze obawy klienta i odpowiedzi:
+  1. „Czy dojdzie przed świętami?” Wysyłka ze śledzeniem 8–18 dni; zamówienia złożone do 5 grudnia powinny dotrzeć przed Wigilią
+  2. „Czy nie będzie za ciężka i nie zsunie się?” Kulki w kilku komorach, ciężar rozkłada się równo; końce bez wypełnienia wsuwasz pod głowę; 30 dni na zwrot
+  3. „Czy to działa, czy to gadżet?” Nie leczy bezsenności; daje pełną ciemność i lekki nacisk, który wielu osobom pomaga się wyciszyć; 30 dni na zwrot
 
 ## Sklep
 
@@ -120,3 +122,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-12 | Dokładne sprawdzenie nasycenia maski w PL: NIE przeruchana (2 sklepy po polsku), ale Miyego wchodzi do wielu krajów UE jednocześnie, 29,90 €, wysyłka 3–5 dni | Zostajemy przy masce. Warunki: start szybko, cena 119 zł, kąt prezentowy, zapytać Teemdrop o magazyn w UE (Miyego dowozi w 3–5 dni). Próg ponownej oceny: >3 polskie sklepy albo >20 polskich reklam Miyego |
 | 2026-11-12 | Prawdziwy koszt maski z Teemdropa do PL: 60,95 zł (wysyłka 44,57 zł). Cena 1 szt. 139 zł + 12,99 zł dostawy, główna oferta 2 szt. za 199 zł z darmową dostawą | Przy 119 zł marża byłaby tylko 67 zł. 139 zł jest blisko Miyego (131 zł) i daje 86 zł marży. Zestaw za 199 zł przekracza próg darmowej dostawy, więc klient widzi oszczędność. Do sprawdzenia: tańsza metoda wysyłki i koszt 2 szt. w Teemdropie |
 | 2026-11-12 | Zestaw 2 szt. potwierdzony: koszt 25,64 $ = 100,51 zł, przy 199 zł marża 92,52 zł | Zestaw daje wyższą marżę niż 1 szt. (86,48 zł), więc w reklamach sprzedajemy przede wszystkim „2 maski za 199 zł, dostawa gratis”. Szkic karty produktu zaktualizowany w `sklep/otulaj-noc-opis.md` (usunięta osłona na nos z oferty A) |
+| 2026-11-12 | Marka: Otulaj (bez nowej domeny), produkt „Otulaj Noc”. Oferta: 139 zł + 12,99 zł dostawy / 2 szt. 199 zł z darmową dostawą / 3 szt. 279 zł, bez ceny przekreślonej | Wybór Claude na prośbę właściciela („ta, która będzie sprzedawać”): sprzedaje produkt, kreacja i oferta, a nie nowa nazwa; Otulaj nic nie kosztuje, już działa, pasuje do prezentu na zimę i pozwala dosprzedać termofor Uścisk |
