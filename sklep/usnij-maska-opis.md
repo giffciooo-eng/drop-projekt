@@ -1,15 +1,15 @@
-# Otulaj Noc: szkic karty produktu (do wklejenia w Shopify po imporcie z Teemdropa)
+# Usnij: szkic karty produktu (do wklejenia w Shopify po imporcie z Teemdropa)
 
 Status: SZKIC. Produkt z Teemdropa: maska z kulkami szklanymi, warianty „Gravity Beads”. Pola w [nawiasach] uzupełnić po sprawdzeniu zdjęć kontroli jakości i opisu w Teemdropie.
 
 ## Tytuł
 
-Otulaj Noc, obciążeniowa maska na oczy do spania
+Usnij, obciążeniowa maska na oczy do spania
 
-## Opis (HTML, styl jak „Otulaj Uścisk”)
+## Opis (HTML)
 
 ```html
-<p>Otulaj Noc to obciążeniowa maska na oczy wypełniona szklanymi kulkami. Kładziesz ją na powiekach, a jej ciężar delikatnie i równo dociska oczy i czoło, odcinając światło. Gasisz lampkę i jest ciemno, cicho, spokojnie.</p>
+<p>Usnij to obciążeniowa maska na oczy wypełniona szklanymi kulkami. Kładziesz ją na powiekach, a jej ciężar delikatnie i równo dociska oczy i czoło, odcinając światło. Gasisz lampkę i jest ciemno, cicho, spokojnie.</p>
 <p>Miękki, gruby materiał, przyjemny dla skóry. Pasuje do snu, drzemki w ciągu dnia, medytacji i podróży. Dobry prezent dla mamy, żony albo przyjaciółki, która mówi, że „znowu nie spała”.</p>
 <p>Kolory: czarny, szary, różowy. Waga paczki 362 g. [Rozmiar maski: do uzupełnienia.] Wysyłka ze śledzeniem w 8 do 18 dni, 30 dni na zwrot. Przy 2 sztukach dostawa gratis.</p>
 <p><strong>Bezpieczeństwo:</strong> [instrukcja podgrzewania/chłodzenia z Teemdropa, jeśli producent ją przewiduje]. Nie stosuj na podrażnioną skórę ani po zabiegach na oczach. Producent: [nazwa i adres z Teemdropa]. Osoba odpowiedzialna w UE: [dane z Teemdropa].</p>

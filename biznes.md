@@ -64,11 +64,13 @@ Puste pola oznaczone są „—”.
 
 ## Marka
 
-- Nazwa marki: **Otulaj** (domena otulaj.pl, już podpięta do sklepu). Decyzja 12.11.2026
-- Nazwa produktu: **Otulaj Noc, obciążeniowa maska na oczy do spania**
-- Dlaczego Otulaj, a nie nowa marka (np. Usnij, usnij.pl wolna za 18 $): zero kosztów i czasu (domena, sklep i płatności już działają), „otulić się do snu” pasuje do maski i do prezentu na zimę, można dosprzedawać termofor Otulaj Uścisk w tym samym koszyku, brak ryzyka cudzego znaku towarowego. Odrzucone propozycje i domeny: `sklep/marka-i-oferta-propozycje.md`
-- Styl i kolory (propozycja): ciepło i spokój; wieczór, sypialnia, miękkie ciepłe światło; kolory produktu czarny, szary, różowy; zdjęcia jak przy Uścisku (generowane w Higgsfield)
-- Ton komunikacji: prosty, ciepły, konkretny, jak w opisie Uścisku; bez obietnic medycznych (nie piszemy: terapia, leczy, na bezsenność, masaż); piszemy: ciemność, cisza, spokój, ciepło, wyciszenie
+- Nazwa marki: **Usnij** (decyzja właściciela 12.11.2026: zmiana z Otulaj na nazwę, która „najlepiej sprzedaje”; wybór Claude)
+- Domena: **usnij.pl**, dostępna 12.11.2026 za 18 $ za pierwszy rok (sprawdzone przez Shopify; przedłużenie może kosztować więcej). Kupuje właściciel. Link do zakupu w sklepie: https://admin.shopify.com/store/iweyf4-u4/settings/domains/confirm?host=usnij.pl
+- Nazwa produktu: **Usnij, obciążeniowa maska na oczy do spania**
+- Dlaczego Usnij: 5 liter, nie da się jej źle wymówić ani zapisać; to czasownik w trybie rozkazującym, więc działa jak wezwanie w reklamie („Usnij.”); mówi wprost, co klient dostaje; kojarzy się z jednym problemem (sen), więc buduje markę specjalisty, a nie sklep ze wszystkim. Pozostałe propozycje: `sklep/marka-i-oferta-propozycje.md`
+- Znak towarowy: w wyszukiwarce nie znaleziono marki „Usnij”; przed większymi wydatkami na markę sprawdzić bazy UPRP i EUIPO (TMview)
+- Styl i kolory (propozycja): spokój i noc; ciemny granat lub grafit + ciepłe, miękkie światło lampki; kolory produktu czarny, szary, różowy; zdjęcia generowane w Higgsfield (sypialnia, wieczór, kobieta 30–55 lat)
+- Ton komunikacji: prosty, spokojny, konkretny; bez obietnic medycznych (nie piszemy: terapia, leczy, na bezsenność, masaż); piszemy: ciemność, cisza, spokój, ciepło, wyciszenie
 - Obietnica produktu: „Ciemność i delikatny ciężar na powiekach, dzięki którym łatwiej się wyciszyć przed snem.”
 - Najczęstsze obawy klienta i odpowiedzi:
   1. „Czy dojdzie przed świętami?” Wysyłka ze śledzeniem 8–18 dni; zamówienia złożone do 5 grudnia powinny dotrzeć przed Wigilią
@@ -123,3 +125,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-12 | Prawdziwy koszt maski z Teemdropa do PL: 60,95 zł (wysyłka 44,57 zł). Cena 1 szt. 139 zł + 12,99 zł dostawy, główna oferta 2 szt. za 199 zł z darmową dostawą | Przy 119 zł marża byłaby tylko 67 zł. 139 zł jest blisko Miyego (131 zł) i daje 86 zł marży. Zestaw za 199 zł przekracza próg darmowej dostawy, więc klient widzi oszczędność. Do sprawdzenia: tańsza metoda wysyłki i koszt 2 szt. w Teemdropie |
 | 2026-11-12 | Zestaw 2 szt. potwierdzony: koszt 25,64 $ = 100,51 zł, przy 199 zł marża 92,52 zł | Zestaw daje wyższą marżę niż 1 szt. (86,48 zł), więc w reklamach sprzedajemy przede wszystkim „2 maski za 199 zł, dostawa gratis”. Szkic karty produktu zaktualizowany w `sklep/otulaj-noc-opis.md` (usunięta osłona na nos z oferty A) |
 | 2026-11-12 | Marka: Otulaj (bez nowej domeny), produkt „Otulaj Noc”. Oferta: 139 zł + 12,99 zł dostawy / 2 szt. 199 zł z darmową dostawą / 3 szt. 279 zł, bez ceny przekreślonej | Wybór Claude na prośbę właściciela („ta, która będzie sprzedawać”): sprzedaje produkt, kreacja i oferta, a nie nowa nazwa; Otulaj nic nie kosztuje, już działa, pasuje do prezentu na zimę i pozwala dosprzedać termofor Uścisk |
+| 2026-11-12 | ZMIANA MARKI: Usnij (usnij.pl, 18 $, kupuje właściciel) zamiast Otulaj; produkt „Usnij, obciążeniowa maska na oczy do spania”. Oferta bez zmian | Właściciel chce osobnej, najlepiej sprzedającej nazwy. Usnij: najkrótsza, jednoznaczna, działa jak wezwanie w reklamie, wolne .pl. Do ustalenia po zakupie domeny: nazwa sklepu w Shopify, domena główna i co z produktami Otulaj (Uścisk aktywny, Łapa szkic). Szkic karty: `sklep/usnij-maska-opis.md` |
