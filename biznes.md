@@ -50,7 +50,8 @@ Puste pola oznaczone są „—”.
   - 129 zł + 12,99 zł: marża 76,78 zł, ROAS na zero 1,85
   - 139 zł + 12,99 zł: marża 86,48 zł, ROAS na zero 1,76 (REKOMENDACJA dla 1 szt.)
   - 149 zł + 12,99 zł: marża 96,18 zł, ROAS na zero 1,68
-  - 2 szt. za 199 zł z darmową dostawą (GŁÓWNA OFERTA): marża 71,13 zł w najgorszym wariancie (koszt 2 × 60,95 zł), ok. 95 zł jeśli wysyłka 2 szt. kosztuje ok. 25 $
+  - 2 szt. za 199 zł z darmową dostawą (GŁÓWNA OFERTA): koszt z Teemdropa 25,64 $ = 100,51 zł (wysyłka 2 szt. 17,28 $), marża 92,52 zł, ROAS na zero 2,15
+  - 3 szt. za 279 zł („trzecia gratis”, dostawa gratis): koszt szacunkowy 140,06 zł, marża ok. 130,57 zł (szacunek, do potwierdzenia w Teemdropie przy Qty 3)
   - Kryterium „cena ≥3x koszt” NIE jest spełnione przy tej wysyłce (ok. 2,3–2,5x). Kryterium „marża ≥80 zł” spełnione od 139 zł
 - Poniższe wyliczenia z 10.11 opierały się na szacunku kosztu 20 zł i są NIEAKTUALNE:
 
@@ -118,3 +119,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-10 | Dostawca maski: Teemdrop, bez zamawiania próbki | Decyzja właściciela. Ryzyko jakości ograniczamy zdjęciami kontroli jakości od Teemdropa. Warianty „1 szt./2 szt.” muszą być zmapowane w Teemdropie, żeby zamówienia na 2 sztuki realizowały się automatycznie |
 | 2026-11-12 | Dokładne sprawdzenie nasycenia maski w PL: NIE przeruchana (2 sklepy po polsku), ale Miyego wchodzi do wielu krajów UE jednocześnie, 29,90 €, wysyłka 3–5 dni | Zostajemy przy masce. Warunki: start szybko, cena 119 zł, kąt prezentowy, zapytać Teemdrop o magazyn w UE (Miyego dowozi w 3–5 dni). Próg ponownej oceny: >3 polskie sklepy albo >20 polskich reklam Miyego |
 | 2026-11-12 | Prawdziwy koszt maski z Teemdropa do PL: 60,95 zł (wysyłka 44,57 zł). Cena 1 szt. 139 zł + 12,99 zł dostawy, główna oferta 2 szt. za 199 zł z darmową dostawą | Przy 119 zł marża byłaby tylko 67 zł. 139 zł jest blisko Miyego (131 zł) i daje 86 zł marży. Zestaw za 199 zł przekracza próg darmowej dostawy, więc klient widzi oszczędność. Do sprawdzenia: tańsza metoda wysyłki i koszt 2 szt. w Teemdropie |
+| 2026-11-12 | Zestaw 2 szt. potwierdzony: koszt 25,64 $ = 100,51 zł, przy 199 zł marża 92,52 zł | Zestaw daje wyższą marżę niż 1 szt. (86,48 zł), więc w reklamach sprzedajemy przede wszystkim „2 maski za 199 zł, dostawa gratis”. Szkic karty produktu zaktualizowany w `sklep/otulaj-noc-opis.md` (usunięta osłona na nos z oferty A) |
