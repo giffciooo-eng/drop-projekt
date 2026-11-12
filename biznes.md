@@ -85,6 +85,11 @@ Puste pola oznaczone są „—”.
 - Waluta: PLN
 - Kraj sprzedaży: Polska (język polski, waluta PLN)
 - Strona produktu (link): — (maska jeszcze nie jest w sklepie; import przez Teemdrop)
+- PODGLĄD SKLEPU USNIJ (12.11.2026): `sklep/podglad/` (index.html, produkt.html, style.css, app.js), zrzuty w `sklep/podglad/zrzuty/`. Test na telefonie (iPhone 13) i komputerze (1440 px): nic nie wychodzi poza ekran, kolory i zestawy działają, ceny 139 zł + 12,99 zł = 151,99 zł oraz 199 zł z darmową dostawą zgodne, przyklejony pasek pojawia się po przewinięciu, brak błędów JS
+  - Zrobione: wszystkie sekcje strony głównej i produktu z briefu; konkrety tylko z zasad sklepu w Shopify (dostawa 8–18 dni, zwrot 30 dni, BLIK/karta/przelew, cena końcowa bez cła, nowa paczka lub zwrot po 25 dniach); miejsce na opinie puste
+  - Brakuje: zdjęć od dostawcy w folderze `produkt` (w podglądzie tymczasowo wycięte zdjęcie z zrzutu Teemdrop, kolor zielony); zdjęć z Higgsfield (wycena: gpt_image_2_6 0,25 kredytu/zdjęcie, marketing_studio_image 2 kredyty/zdjęcie; czeka na zgodę); wymiarów maski; danych producenta do GPSR
+  - Następne kroki wg briefu: akceptacja podglądu → motyw NIEOPUBLIKOWANY w Shopify + produkt z wariantami → lista rzeczy do kliknięcia w panelu
+  - Uwaga: zasady sklepu (regulamin, zwroty, kontakt) mówią o marce „Otulaj” i termoforze; przy przejściu na Usnij trzeba je zaktualizować
 - Stan sklepu (Shopify, 10.11.2026):
   - „Otulaj Uścisk, zestaw 3w1: termofor do noszenia na okres i plecy”: AKTYWNY, 159 zł, warianty 1/2/3 zestawy (249/318 zł)
   - „Otulaj Łapa, chłonna mata na błotniste łapy psa 50×80 cm”: SZKIC, 149 zł / 2 szt. 249 zł
@@ -126,3 +131,4 @@ Puste pola oznaczone są „—”.
 | 2026-11-12 | Zestaw 2 szt. potwierdzony: koszt 25,64 $ = 100,51 zł, przy 199 zł marża 92,52 zł | Zestaw daje wyższą marżę niż 1 szt. (86,48 zł), więc w reklamach sprzedajemy przede wszystkim „2 maski za 199 zł, dostawa gratis”. Szkic karty produktu zaktualizowany w `sklep/otulaj-noc-opis.md` (usunięta osłona na nos z oferty A) |
 | 2026-11-12 | Marka: Otulaj (bez nowej domeny), produkt „Otulaj Noc”. Oferta: 139 zł + 12,99 zł dostawy / 2 szt. 199 zł z darmową dostawą / 3 szt. 279 zł, bez ceny przekreślonej | Wybór Claude na prośbę właściciela („ta, która będzie sprzedawać”): sprzedaje produkt, kreacja i oferta, a nie nowa nazwa; Otulaj nic nie kosztuje, już działa, pasuje do prezentu na zimę i pozwala dosprzedać termofor Uścisk |
 | 2026-11-12 | ZMIANA MARKI: Usnij (usnij.pl, 18 $, kupuje właściciel) zamiast Otulaj; produkt „Usnij, obciążeniowa maska na oczy do spania”. Oferta bez zmian | Właściciel chce osobnej, najlepiej sprzedającej nazwy. Usnij: najkrótsza, jednoznaczna, działa jak wezwanie w reklamie, wolne .pl. Do ustalenia po zakupie domeny: nazwa sklepu w Shopify, domena główna i co z produktami Otulaj (Uścisk aktywny, Łapa szkic). Szkic karty: `sklep/usnij-maska-opis.md` |
+| 2026-11-12 | Zbudowany podgląd sklepu Usnij (strona główna + produkt), przetestowany na telefonie i komputerze | Krok 1 briefu. Czeka na akceptację właściciela, zdjęcia od dostawcy i zgodę na koszt Higgsfield |
