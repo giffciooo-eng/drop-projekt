@@ -29,7 +29,9 @@ Puste pola oznaczone są „—”.
 - Oferty z Teemdropa (12.11.2026):
   - Oferta A: opaska z kulkami szklanymi 70 × 12 cm, polar z obu stron, osłona na nos, mikrofalówka/lodówka, 3 kolory (czarny, szary, różowy); waga NIEZNANA
   - Oferta B (PREFEROWANA, najbliższa wzorowi Mellow): klasyczna maska z kulkami szklanymi, waga 240 g, jedna strona chłodząca (gładka „jedwabna” tkanina), druga ciepła; 6 kolorów; opis wspomina wersję „ważoną” i „nieważoną” oraz „czas nagrzewania 3–5 minut” i „masaż oczu”. Do wyjaśnienia: które kolory to wersja z kulkami; czy podgrzewanie jest w mikrofalówce czy elektryczne (USB/grzałka = elektronika, wymaga certyfikatów, wtedy odpada); czy tkanina to prawdziwy jedwab (jeśli nie, nie piszemy „jedwab”)
-  - Brakuje w obu: koszt produktu i wysyłki do PL, czas dostawy, magazyn
+  - Oferta B na Teemdropie (zrzut ekranu 12.11.2026): warianty „Gravity Beads” (z kulkami: czarny, fioletowy, niebieski, szary, różowy, zielony awokado) i „Smooth Cool” (gładkie chłodzące, prawdopodobnie bez kulek; NIE bierzemy). Na zdjęciu wersja z kulkami to polarowa opaska z kieszeniami na kulki, bez kabla. Waga wysyłkowa 362 g
+  - Koszt przy wysyłce do USA (TDPacket Ordinary Promo): produkt 4,18 $ + wysyłka 9,59 $ = 13,77 $ = 53,98 zł (kurs NBP 9.11.2026); realizacja 1–3 dni, dostawa 7–15 dni
+  - DO SPRAWDZENIA: koszt i czas dostawy do POLSKI (zmienić „Ship To” na Poland). Progi: łącznie ≤35 zł (8,93 $) → cena 119 zł; ≤43 zł (10,97 $) → cena 129 zł; ≤46,33 zł (11,82 $) → cena 139 zł; drożej → tylko zestawy albo inna oferta
 - Zapasowi dostawcy (linki znalezione 10.11.2026, gdyby Teemdrop nie miał tej maski):
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-migraines-cold-hot-compress-care-ultra-fine-glass-bead-bag-for-headaches-sinus-puffy-eyes-dark-circles-light-blocking-eye-pillow-universal-size-g-601099537507804.html
   - Temu: https://www.temu.com/weighted-eye-mask-for-sleeping-cooling-cozy-reversible-blackout-sleep-mask-for-women-men-microwave-freezable-heavy-blindfold-for-migraine-travel-meditation-0-55lbs-grey-g-601105406376780.html
