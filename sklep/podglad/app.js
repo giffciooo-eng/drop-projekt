@@ -69,6 +69,13 @@ if (mainAtc && sticky) {
   check();
 }
 
+// Wideo w hero: osoby, które w systemie wyłączyły animacje, widzą nieruchomą klatkę.
+const heroVideo = document.querySelector(".hero-media video");
+if (heroVideo && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  heroVideo.removeAttribute("autoplay");
+  heroVideo.pause();
+}
+
 // Miniatury: zapamiętaj zawartość do podmiany w głównym zdjęciu.
 document.querySelectorAll(".thumb").forEach((t) => {
   if (!t.dataset.html) t.dataset.html = t.querySelector("template")?.innerHTML || "";
