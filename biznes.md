@@ -235,15 +235,15 @@ Nie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z t
 - Dzienny budżet na reklamy: 50–100 zł
 - Uwaga: z 1 000 zł na reklamy realnie zostanie ok. 700–800 zł (reszta: abonament Shopify, próbka produktu). To ok. 14–16 dni reklam po 50 zł albo 7–8 dni po 100 zł. Plan: startujemy od 50 zł dziennie i podnosimy tylko na reklamie, która sprzedaje.
 - Platforma reklamowa: Meta (Facebook i Instagram)
-- Status kampanii: przygotowana jako szkic w Menedżerze reklam, NIE opublikowana (nic nie wydaje pieniędzy)
+- Status kampanii: OPUBLIKOWANA 16.11.2026 ok. 00:45, start emisji 01:01 (po akceptacji reklam przez Meta)
 
 ### Kampania Usnij (Meta)
 
-- Nazwa kampanii: **Usnij | Sprzedaż | PL | start 50 zł** (ID 52695568915668)
+- Nazwa kampanii: **Usnij | Sprzedaż | PL | test 100 zł/dzień** (ID 52695568915668)
 - Konto reklamowe: 1771962770715067 (PLN, strefa Europe/Warsaw, metoda płatności podpięta)
 - Cel: Sprzedaż; optymalizacja: konwersje na stronie, zdarzenie **Zakup** (piksel 1441691309019377, podłączony przez aplikację Facebook & Instagram w Shopify)
-- Budżet: **50 zł dziennie** na poziomie kampanii (Advantage+ budżet kampanii), strategia: najniższy koszt bez limitu
-- Data startu: **17.11.2026, 00:01** (czas polski; przestawione z 16.11, bo przygotowania skończyły się po północy). Jeśli publikujemy później, przestawiamy start na następny dzień 00:01 przed publikacją
+- Budżet: **100 zł dziennie** na poziomie kampanii (test 3 dni = ok. 300 zł; wcześniej planowane 50 zł) (Advantage+ budżet kampanii), strategia: najniższy koszt bez limitu
+- Data startu: **16.11.2026, 01:01** (czas polski; decyzja właściciela: start tej samej nocy)
 - Grupa reklam: **PL | szeroko 18-65+ | wszyscy | bez zainteresowań** (ID 52695568941668): Polska, wiek 18–65+, wszystkie płcie, bez zainteresowań, Advantage+ odbiorcy, Advantage+ miejsca docelowe, atrybucja 7 dni po kliknięciu + 1 dzień po wyświetleniu
 - Link w reklamach: strona produktu `/products/usnij-obciazeniowa-maska-na-oczy-do-spania` (na usnij.pl, gdy domena będzie podpięta)
 - Przycisk: Kup teraz. Każda reklama ma 2 formaty: 4:5 w aktualnościach, 9:16 w Stories i Reels
@@ -305,3 +305,5 @@ Do zrobienia przed startem (właściciel klika, kolejno):
 | 2026-11-15 | Sklep Usnij działa na żywo pod usnij.pl (nowy wygląd, nazwa Usnij, polityki poprawione przez właściciela). Do poprawki: w Nocie prawnej nadal „otulaj.pl” | Sprawdzone automatycznie w przeglądarce: strona główna, produkt, koszyk, brak termoforu w sklepie |
 | 2026-11-15 | Produkt przebudowany: tylko opcja Kolor (3 warianty po 139 zł), „2 maski za 199 zł” jako automatyczny rabat 79 zł przy 2+ maskach (raz na zamówienie, także przy różnych kolorach). Strona produktu: wybór „1 maska / 2 maski” ustawia liczbę sztuk, domyślnie 2 maski. Nowa wersja motywu „Usnij v2” czeka na publikację | Teemdrop łączy warianty tylko jeden do jednego i nie ma ustawienia liczby sztuk, więc wariant „2 maski” nie mógł zamawiać 2 sztuk. Teraz zamówienie na 2 maski to po prostu ilość 2, którą Teemdrop dostaje automatycznie. Sprawdzone w podglądzie: Różowy ×2 = 199 zł, Czarny ×1 = 139 zł + dostawa, czarna + szara = 199 zł |
 | 2026-11-16 | Teemdrop: właściciel połączył warianty „1 maska” (to te same warianty co obecne Szary, Czarny, Różowy, Teemdrop pokazuje stare nazwy). Start kampanii przestawiony na 17.11 o 00:01 | Teemdrop łączy po ID wariantu, więc połączenie jest poprawne. Warianty „2 maski” już nie istnieją, nie łączymy ich |
+| 2026-11-16 | START KAMPANII: opublikowana o ok. 00:45, emisja od 01:01, budżet 100 zł dziennie, test 3 dni (ok. 300 zł). Zasada: przez 72 h nic nie zmieniamy | Decyzja właściciela (start dziś, chce sprzedaży w 3 dni). Przy 50 zł dziennie test dałby ok. 150 zł i najpewniej 0–2 zamówienia, za mało na jakąkolwiek ocenę. Próg opłacalności: ok. 92 zł kosztu reklamy na zamówienie 2 masek (marża ok. 92,5 zł) |
+| 2026-11-16 | Grupa reklam: dodane dane DSA (reklamodawca i płatnik: „Usnij”), bez nich Meta odrzuciła publikację. Kampania, grupa reklam i 6 reklam opublikowane, reklamy w sprawdzaniu przez Meta (IN_PROCESS) | Wymóg UE (Digital Services Act). Piksel zbiera już zdarzenia z usnij.pl (PageView, ViewContent, AddToCart) |
