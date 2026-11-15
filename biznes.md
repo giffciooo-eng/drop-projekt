@@ -113,11 +113,11 @@ Puste pola oznaczone są „—”.
   3. `reklama-3-*.mp4` (8 s): wideo AI; maska opada na oczy od pierwszej klatki, gaśnie lampka; napisy „Delikatny ciężar na powiekach” → „4 komory ze szklanymi kulkami” → „Ciemno. Cicho. Spokojnie.”
   4. `reklama-4-*.mp4` (9 s): wideo AI problem → rozwiązanie; „3:07. Znowu nie śpisz, a obok świeci lampka?” → „Połóż maskę na oczach.” → „Ciemno. Cicho. Spokojnie.”; czarna maska
   5. `reklama-5-*.mp4` (9,6 s): montaż od rozpakowania do efektu: pudełko → maska w dłoniach → na oczy → gaśnie światło
-  6. `reklama-6-*.mp4` (9,9 s): montaż z hakiem tekstowym od pierwszej klatki „Twoja maska się zsuwa i przepuszcza światło?” + zbliżenia (4 komory, polar, końce) + przepinanie z tyłu głowy + maska na oczach
+  6. `reklama-6-*.mp4` (9,9 s): montaż z hakiem tekstowym od pierwszej klatki „Twoja maska się zsuwa i przepuszcza światło?” + zbliżenia (4 komory, polar, końce) + całe przepinanie z tyłu głowy jednym ujęciem bez cięć (trzyma końce → przekłada przez otwór → skręt → opuszcza ręce; poprawka 15.11 na prośbę właściciela, klip sprawdzony `reklamy/zrodla/ciecia.py`) + maska na oczach
   - Każde wideo kończy 2-sekundowa plansza: usnij., „2 maski 199 zł”, „darmowa dostawa · 1 maska 139 zł”. Wideo bez dźwięku (muzykę dodać z biblioteki Meta w Menedżerze reklam)
   - Różowej maski NIE ma w reklamach (do potwierdzenia u Teemdropu, jak wygląda prawdziwa sztuka)
   - Źródła i skrypty do ponownego wygenerowania: `reklamy/zrodla/` (statyki.py, reklamy_ai.py, reklamy_montaz.py, wideo.py, usnij_grafika.py), stykówka ujęć: `reklamy/stykowka-montaze.jpg`
-  - Koszt Higgsfield na reklamy: 344 kr. (14–15.11) + 102,5 kr. (przepinanie i różowa, 15.11). Odrzucony 1 klip (zbliżenie z palcem: model zmienił przeszycia maski)
+  - Koszt Higgsfield na reklamy: 344 kr. (14–15.11) + 102,5 kr. (przepinanie i różowa, 15.11) + 196,5 kr. (przepinanie bez cięć: nowa klatka startowa i 2 wersje klipu, wybrana wersja A). Odrzucone: zbliżenie z palcem (model zmienił przeszycia) i pierwszy klip przepinania (przeskok w 1. sekundzie)
 - Najlepsze haczyki (pierwsze 3 sekundy) do testu: „3:07. Znowu nie śpisz, a obok świeci lampka?” (r. 4), „Twoja maska się zsuwa i przepuszcza światło?” (r. 6), maska opadająca na oczy bez słów (r. 3). Wynik testu: — (uzupełnić po kampanii)
 - Teksty reklam (pełne w `reklamy/teksty.md`); przycisk we wszystkich: Kup teraz
 

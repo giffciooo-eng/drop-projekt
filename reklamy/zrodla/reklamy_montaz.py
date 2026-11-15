@@ -2,7 +2,7 @@
 
 Ujęcia wybrane ze stykówki (reklamy/stykowka-montaze.jpg):
 - reklama 5 (od rozpakowania do efektu): K1 → K2 → K3 (maska opada) → K3 (gaśnie lampka)
-- reklama 6 (hak tekstowy + zbliżenia): Z6 → Z3 → Z4 → Z5 → K6 (przepinanie z tyłu) → K3 (maska na oczach)
+- reklama 6 (hak tekstowy + zbliżenia): Z6 → Z3 → Z4 → Z5 → przepinanie z tyłu (cały ruch jednym ujęciem) → K3 (maska na oczach)
 """
 import sys
 import tempfile
@@ -23,12 +23,14 @@ MONTAZE = {
         (HF / "r3-wideo.mp4", dict(start=4.5, dur=1.5), ["Zgaś światło."]),
     ],
     6: [
-        (HF / "r6-makro.jpg", dict(dur=1.7, ken_burns=0.07), ["Twoja maska się zsuwa", "i przepuszcza światło?"]),
-        (P / "szara-makro-srodek.jpg", dict(dur=1.3, ken_burns=0.06), ["4 komory", "ze szklanymi kulkami"]),
-        (P / "szara-makro-polar.jpg", dict(dur=1.3, ken_burns=0.06, fokus_x=0.62), ["Miękki,", "podwójny polar"]),
-        (P / "szara-makro-koniec.jpg", dict(dur=1.3, ken_burns=0.06), ["Końce", "bez wypełnienia"]),
-        (HF / "m-przepinanie.mp4", dict(start=1.1, dur=3.9, predkosc=2.4), ["Albo przepnij z tyłu.", "Bez gumki."]),
-        (HF / "r3-wideo.mp4", dict(start=3.0, dur=1.4), ["Ciemno. Cicho.", "Spokojnie."]),
+        (HF / "r6-makro.jpg", dict(dur=1.5, ken_burns=0.07), ["Twoja maska się zsuwa", "i przepuszcza światło?"]),
+        (P / "szara-makro-srodek.jpg", dict(dur=1.05, ken_burns=0.06), ["4 komory", "ze szklanymi kulkami"]),
+        (P / "szara-makro-polar.jpg", dict(dur=1.05, ken_burns=0.06, fokus_x=0.62), ["Miękki,", "podwójny polar"]),
+        (P / "szara-makro-koniec.jpg", dict(dur=1.05, ken_burns=0.06), ["Końce", "bez wypełnienia"]),
+        # całe przepinanie jednym ujęciem, bez cięć (klip bez przeskoków, sprawdzony ciecia.py)
+        (HF / "m-przepinanie-v2a.mp4", dict(start=0.0, dur=6.0, predkosc=2.2, fokus_y=0.12),
+         ["Albo przepnij z tyłu.", "Bez gumki."], dict(dol=True)),
+        (HF / "r3-wideo.mp4", dict(start=3.0, dur=1.15), ["Ciemno. Cicho.", "Spokojnie."]),
     ],
 }
 
@@ -38,13 +40,19 @@ def zbuduj(nr, fmt):
     with tempfile.TemporaryDirectory() as t:
         t = Path(t)
         uj, napisy, czas = [], [], 0.0
-        for i, (plik, opcje, linie) in enumerate(MONTAZE[nr]):
+        for i, (plik, opcje, linie, *napis_opcje) in enumerate(MONTAZE[nr]):
             u = v.ujecie(plik, fmt, t / f"u{i}.mp4", **opcje)
             d = v.dlugosc(u)
             uj.append(u)
             if linie:
                 od = 0.0 if i == 0 else czas + 0.05
-                napisy.append((v.napis_png(t / f"n{i}.png", w, h, linie), od, czas + d - PRZEJSCIE))
+                no = napis_opcje[0] if napis_opcje else {}
+                if no.get("dol"):
+                    y = (1180 if fmt == "9x16" else 1000) - (len(linie) - 1) * 40
+                    png = v.napis_png(t / f"n{i}.png", w, h, linie, gora=y, dol=True)
+                else:
+                    png = v.napis_png(t / f"n{i}.png", w, h, linie)
+                napisy.append((png, od, czas + d - PRZEJSCIE))
             czas += d - PRZEJSCIE
         film = v.sklej(uj, t / "film.mp4", przejscie=PRZEJSCIE)
         z_nap = v.z_napisami(film, napisy, t / "napisy.mp4")
