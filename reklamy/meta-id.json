@@ -1,0 +1,20 @@
+{
+  "konto_reklamowe": "1771962770715067",
+  "piksel": "1441691309019377",
+  "kampania": {"id": "52695568915668", "nazwa": "Usnij | Sprzedaż | PL | start 50 zł", "stan": "szkic (nieopublikowana)"},
+  "grupa_reklam": {"id": "52695568941668", "nazwa": "PL | szeroko 18-65+ | wszyscy | bez zainteresowań", "start": "2026-11-16T00:01:00+01:00"},
+  "media": {
+    "reklama-1-4x5.jpg": {"image_hash": "d58fbb6d4101d7a72ecd8341c515e09b"},
+    "reklama-1-9x16.jpg": {"image_hash": "ddf7502a81fd33d76d73a20b0886d22c"},
+    "reklama-2-4x5.jpg": {"image_hash": "2165d37c3ab49c5d654c6e9e9b0e922d"},
+    "reklama-2-9x16.jpg": {"image_hash": "e6f1fa3d0d2fa8af9763f43163615bd0"},
+    "reklama-3-4x5.mp4": {"video_id": "1488418139825358"},
+    "reklama-3-9x16.mp4": {"video_id": "1126610886847505"},
+    "reklama-4-4x5.mp4": {"video_id": "1686578622993767"},
+    "reklama-4-9x16.mp4": {"video_id": "2168278310747033"},
+    "reklama-5-4x5.mp4": {"video_id": "1121325817192167"},
+    "reklama-5-9x16.mp4": {"video_id": "1099895243090095"},
+    "reklama-6-4x5.mp4": {"video_id": "2325718794940848"},
+    "reklama-6-9x16.mp4": {"video_id": "3140618256287497"}
+  }
+}

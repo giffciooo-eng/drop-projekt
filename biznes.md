@@ -235,7 +235,40 @@ Nie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z t
 - Dzienny budżet na reklamy: 50–100 zł
 - Uwaga: z 1 000 zł na reklamy realnie zostanie ok. 700–800 zł (reszta: abonament Shopify, próbka produktu). To ok. 14–16 dni reklam po 50 zł albo 7–8 dni po 100 zł. Plan: startujemy od 50 zł dziennie i podnosimy tylko na reklamie, która sprzedaje.
 - Platforma reklamowa: Meta (Facebook i Instagram)
-- Status kampanii: jeszcze nieuruchomiona
+- Status kampanii: przygotowana jako szkic w Menedżerze reklam, NIE opublikowana (nic nie wydaje pieniędzy)
+
+### Kampania Usnij (Meta)
+
+- Nazwa kampanii: **Usnij | Sprzedaż | PL | start 50 zł** (ID 52695568915668)
+- Konto reklamowe: 1771962770715067 (PLN, strefa Europe/Warsaw, metoda płatności podpięta)
+- Cel: Sprzedaż; optymalizacja: konwersje na stronie, zdarzenie **Zakup** (piksel 1441691309019377, podłączony przez aplikację Facebook & Instagram w Shopify)
+- Budżet: **50 zł dziennie** na poziomie kampanii (Advantage+ budżet kampanii), strategia: najniższy koszt bez limitu
+- Data startu: **16.11.2026, 00:01** (czas polski). Jeśli publikujemy później, przestawiamy start na następny dzień 00:01 przed publikacją
+- Grupa reklam: **PL | szeroko 18-65+ | wszyscy | bez zainteresowań** (ID 52695568941668): Polska, wiek 18–65+, wszystkie płcie, bez zainteresowań, Advantage+ odbiorcy, Advantage+ miejsca docelowe, atrybucja 7 dni po kliknięciu + 1 dzień po wyświetleniu
+- Link w reklamach: strona produktu `/products/usnij-obciazeniowa-maska-na-oczy-do-spania` (na usnij.pl, gdy domena będzie podpięta)
+- Przycisk: Kup teraz. Każda reklama ma 2 formaty: 4:5 w aktualnościach, 9:16 w Stories i Reels
+- Pliki wgrane do biblioteki konta (ID w `reklamy/meta-id.json`), gotowe zestawy reklam w `reklamy/meta-reklamy.json`
+
+Lista reklam (tekst i nagłówek z `reklamy/teksty.md`):
+
+| Nr | Nazwa reklamy | Nagłówek | Pliki |
+|----|---------------|----------|-------|
+| 1 | R1 \| statyk z ceną | 2 maski za 199 zł, dostawa gratis | reklama-1-4x5.jpg, reklama-1-9x16.jpg |
+| 2 | R2 \| statyk świąteczny | Prezent: 2 maski za 199 zł | reklama-2-4x5.jpg, reklama-2-9x16.jpg |
+| 3 | R3 \| wideo AI, efekt „wow” | Delikatny ciężar na powiekach | reklama-3-4x5.mp4, reklama-3-9x16.mp4 |
+| 4 | R4 \| wideo AI, problem → rozwiązanie | Ciemno, nawet gdy obok świeci lampka | reklama-4-4x5.mp4, reklama-4-9x16.mp4 |
+| 5 | R5 \| montaż od rozpakowania do efektu | Rozpakuj, połóż na oczach, zgaś światło | reklama-5-4x5.mp4, reklama-5-9x16.mp4 |
+| 6 | R6 \| montaż z hakiem tekstowym i zbliżeniami | Maska bez gumki, za to z ciężarem | reklama-6-4x5.mp4, reklama-6-9x16.mp4 |
+
+Stan reklam: pliki wgrane, same reklamy czekają na stronę na Facebooku „Usnij” (reklama musi mieć stronę, a na koncie jest tylko strona Otulaj).
+
+Do zrobienia przed startem (właściciel klika, kolejno):
+1. Strona na Facebooku „Usnij” i dodanie jej do konta reklamowego.
+2. Domena usnij.pl podpięta w Shopify i ustawiona jako główna.
+3. Zgoda na publikację nowego motywu Usnij (motyw „Usnij (nowy wygląd, nieopublikowany)”) i zmiana nazwy sklepu na Usnij.
+4. Teemdrop: połączenie maski Gravity Beads (czarna, szara, różowa) z produktem w Shopify, zestaw „2 maski” = 2 sztuki.
+5. Polityki i strony Dostawa/Zwroty: zamiana treści o termoforze na ogólne (wspólne dla obu produktów).
+6. Po sprawdzeniu podglądu reklam: publikacja kampanii (start następnego dnia o 00:01).
 
 ## Dziennik decyzji
 
@@ -264,3 +297,5 @@ Nie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z t
 | 2026-11-15 | 6 reklam gotowych (2 statyki, 2 wideo AI, 2 montaże), każda w 4:5 i 9:16, teksty w `reklamy/teksty.md` | Brief właściciela. Waga 240 g usunięta z reklam (niepotwierdzona dla wariantu z kulkami), w zamian „4 komory ze szklanymi kulkami” z infografiki dostawcy. Pokazane przepinanie z tyłu głowy (potwierdzone zdjęciami z Teemdropu) |
 | 2026-11-15 | Sklep: różowa maska pokazana w prawdziwym kształcie (wypukłe komory, wg zdjęcia dostawcy w użyciu), dodane przepinanie z tyłu (karta cechy, FAQ „Czy mogę spać na boku?”, 2 zdjęcia w galerii); waga oznaczona „do potwierdzenia” | Zgodność z produktem i zero obietnic, których nie da się sprawdzić |
 
+| 2026-11-15 | Motyw Usnij wgrany do kopii motywu w Shopify (nieopublikowany): strona główna, strona produktu z wyborem koloru i zestawu, logo, kolory, menu „Menu Usnij”, stopka, koszyk bez dodatku Otulaj. Produkt Usnij aktywny w sklepie online i w kanale Facebook & Instagram | Kampania potrzebuje działającej strony produktu. Sprawdzone w podglądzie: Różowy + 2 maski trafia do koszyka za 199 zł. Żywy wygląd sklepu (Otulaj) bez zmian, dopóki właściciel nie zgodzi się na publikację motywu |
+| 2026-11-15 | Kampania sprzedażowa Usnij w Menedżerze reklam jako szkic: cel Sprzedaż, zdarzenie Zakup, 50 zł dziennie, Polska, 18–65+, wszyscy, bez zainteresowań, start 16.11 o 00:01. Wgrane 12 plików reklam (6 reklam × 4:5 i 9:16) | Prompt właściciela „wszystko powgrywaj i poustawiaj”. Szkic niczego nie wydaje. Reklamy powstaną po założeniu strony „Usnij” na Facebooku (wybór właściciela: nowa strona zamiast Otulaj) |

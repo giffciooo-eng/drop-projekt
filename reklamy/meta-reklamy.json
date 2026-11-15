@@ -1,0 +1,80 @@
+[
+  {
+    "nr": 1,
+    "nazwa": "R1 | statyk z ceną",
+    "naglowek": "2 maski za 199 zł, dostawa gratis",
+    "tekst": "Wieczorem gasisz światło, a głowa dalej pracuje?\n\nUsnij to obciążeniowa maska na oczy: szklane kulki zamknięte w miękkim polarze. Daje ciemność i delikatny, równy ciężar na powiekach.\n\nBez gumki za głową. Końce kładziesz na poduszce albo przepinasz z tyłu głowy.\n\n2 maski kosztują 199 zł zamiast 278 zł, które zapłacisz, kupując je osobno, a dostawa jest gratis. Jedna dla Ciebie, druga dla bliskiej osoby.\n\nMasz 30 dni na zwrot bez podawania przyczyny.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "image_hash": "d58fbb6d4101d7a72ecd8341c515e09b"
+    },
+    "9x16": {
+      "image_hash": "ddf7502a81fd33d76d73a20b0886d22c"
+    }
+  },
+  {
+    "nr": 2,
+    "nazwa": "R2 | statyk świąteczny",
+    "naglowek": "Prezent: 2 maski za 199 zł",
+    "tekst": "Znasz kogoś, kto co rano mówi „znowu nie spałam”?\n\nUsnij to obciążeniowa maska na oczy ze szklanymi kulkami w miękkim polarze. Ciemność i delikatny ciężar na powiekach, kiedy kończy się dzień.\n\nZestaw 2 masek kosztuje 199 zł z darmową dostawą: jedna pod choinkę, druga dla Ciebie.\n\nDostawa trwa 8–18 dni i dostajesz numer śledzenia, więc na prezent zamów z wyprzedzeniem. Jeśli nie trafi w gust, masz 30 dni na zwrot.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "image_hash": "2165d37c3ab49c5d654c6e9e9b0e922d"
+    },
+    "9x16": {
+      "image_hash": "e6f1fa3d0d2fa8af9763f43163615bd0"
+    }
+  },
+  {
+    "nr": 3,
+    "nazwa": "R3 | wideo AI, efekt „wow”",
+    "naglowek": "Delikatny ciężar na powiekach",
+    "tekst": "Tak wygląda koniec dnia z maską Usnij.\n\nKładziesz ją na oczach, a szklane kulki w 4 komorach rozkładają ciężar równo po powiekach.\n\nMiękki, podwójny polar. Bez gumki, bez kabli, nic do ładowania.\n\n1 maska kosztuje 139 zł, a 2 maski 199 zł z darmową dostawą.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "video_id": "1488418139825358"
+    },
+    "9x16": {
+      "video_id": "1126610886847505"
+    }
+  },
+  {
+    "nr": 4,
+    "nazwa": "R4 | wideo AI, problem → rozwiązanie",
+    "naglowek": "Ciemno, nawet gdy obok świeci lampka",
+    "tekst": "Ty chcesz spać, a obok ktoś jeszcze czyta przy lampce albo przewija telefon.\n\nPołóż na oczach maskę Usnij. Przykrywa oczy i czoło, a szklane kulki w miękkim polarze dają delikatny ciężar na powiekach.\n\nKońce bez wypełnienia leżą płasko na poduszce, więc nic nie ciągnie za włosy.\n\n2 maski kosztują 199 zł z darmową dostawą, więc jedna może być dla tej osoby z lampką. Masz 30 dni na zwrot.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "video_id": "1686578622993767"
+    },
+    "9x16": {
+      "video_id": "2168278310747033"
+    }
+  },
+  {
+    "nr": 5,
+    "nazwa": "R5 | montaż od rozpakowania do efektu",
+    "naglowek": "Rozpakuj, połóż na oczach, zgaś światło",
+    "tekst": "Tak wygląda maska Usnij od pudełka do pierwszego wieczoru.\n\nW środku jest obciążeniowa maska: szklane kulki w miękkim, podwójnym polarze. Czuć jej ciężar w dłoni, a na powiekach jest miękka.\n\nKładziesz ją na oczach, płaskie końce zostawiasz na poduszce i gasisz światło.\n\nZestaw 2 masek kosztuje 199 zł z darmową dostawą. Dostawa trwa 8–18 dni i dostajesz numer śledzenia.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "video_id": "1121325817192167"
+    },
+    "9x16": {
+      "video_id": "1099895243090095"
+    }
+  },
+  {
+    "nr": 6,
+    "nazwa": "R6 | montaż z hakiem tekstowym i zbliżeniami",
+    "naglowek": "Maska bez gumki, za to z ciężarem",
+    "tekst": "Zwykła maska do spania zsuwa się w nocy, gumka ciągnie za włosy, a światło wpada bokiem?\n\nUsnij jest zrobiona inaczej. Szklane kulki są w 4 komorach, więc ciężar rozkłada się równo. Z wierzchu jest miękki, podwójny polar.\n\nNie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z tyłu głowy: jeden koniec przekładasz przez otwór w drugim, np. do spania na boku.\n\n1 maska kosztuje 139 zł, a 2 maski 199 zł z darmową dostawą. Masz 30 dni na zwrot bez podawania przyczyny.",
+    "przycisk": "SHOP_NOW",
+    "4x5": {
+      "video_id": "2325718794940848"
+    },
+    "9x16": {
+      "video_id": "3140618256287497"
+    }
+  }
+]
