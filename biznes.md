@@ -260,10 +260,10 @@ Lista reklam (tekst i nagłówek z `reklamy/teksty.md`):
 | 5 | R5 \| montaż od rozpakowania do efektu | Rozpakuj, połóż na oczach, zgaś światło | reklama-5-4x5.mp4, reklama-5-9x16.mp4 |
 | 6 | R6 \| montaż z hakiem tekstowym i zbliżeniami | Maska bez gumki, za to z ciężarem | reklama-6-4x5.mp4, reklama-6-9x16.mp4 |
 
-Stan reklam: pliki wgrane, same reklamy czekają na stronę na Facebooku „Usnij” (reklama musi mieć stronę, a na koncie jest tylko strona Otulaj).
+Stan reklam: wszystkie 6 reklam utworzone w szkicu kampanii (bez błędów), strona Facebook „Uśnij” (1505924689264199), Instagram @usnij.pl (17841410507047336). Link: https://usnij.pl/products/usnij-obciazeniowa-maska-na-oczy-do-spania z parametrami UTM (utm_source=facebook, utm_medium=paid, nazwa kampanii i reklamy). Format 4:5 w aktualnościach, 9:16 w Stories i Reels (Facebook, Instagram, Messenger). Ulepszenia Advantage+ kreacji wyłączone, reklamy wyświetlają się dokładnie tak, jak je zrobiliśmy. Oznaczenie AI: niezadeklarowane (decyzja właściciela „nie oznaczaj”; nie zaznaczyliśmy też „bez AI”, bo byłoby to nieprawdą). ID w `reklamy/meta-id.json`.
 
 Do zrobienia przed startem (właściciel klika, kolejno):
-1. Strona na Facebooku „Usnij” i dodanie jej do konta reklamowego.
+1. ~~Strona na Facebooku i Instagram~~ zrobione 15.11 (strona „Uśnij”, Instagram @usnij.pl).
 2. Domena usnij.pl podpięta w Shopify i ustawiona jako główna.
 3. Zgoda na publikację nowego motywu Usnij (motyw „Usnij (nowy wygląd, nieopublikowany)”) i zmiana nazwy sklepu na Usnij.
 4. Teemdrop: połączenie maski Gravity Beads (czarna, szara, różowa) z produktem w Shopify, zestaw „2 maski” = 2 sztuki.
@@ -300,3 +300,4 @@ Do zrobienia przed startem (właściciel klika, kolejno):
 | 2026-11-15 | Motyw Usnij wgrany do kopii motywu w Shopify (nieopublikowany): strona główna, strona produktu z wyborem koloru i zestawu, logo, kolory, menu „Menu Usnij”, stopka, koszyk bez dodatku Otulaj. Produkt Usnij aktywny w sklepie online i w kanale Facebook & Instagram | Kampania potrzebuje działającej strony produktu. Sprawdzone w podglądzie: Różowy + 2 maski trafia do koszyka za 199 zł. Żywy wygląd sklepu (Otulaj) bez zmian, dopóki właściciel nie zgodzi się na publikację motywu |
 | 2026-11-15 | Kampania sprzedażowa Usnij w Menedżerze reklam jako szkic: cel Sprzedaż, zdarzenie Zakup, 50 zł dziennie, Polska, 18–65+, wszyscy, bez zainteresowań, start 16.11 o 00:01. Wgrane 12 plików reklam (6 reklam × 4:5 i 9:16) | Prompt właściciela „wszystko powgrywaj i poustawiaj”. Szkic niczego nie wydaje. Reklamy powstaną po założeniu strony „Usnij” na Facebooku (wybór właściciela: nowa strona zamiast Otulaj) |
 | 2026-11-15 | Instagram: zostaje dotychczasowe konto Otulaj, przerobione na Usnij (nowa nazwa, bio, zdjęcie, stare posty zarchiwizowane). Przygotowane: okładka strony na Facebooku, 9 pierwszych postów (6 zdjęć i karuzel, 3 rolki) z opisami w `social/instagram/posty.md` | Pytanie właściciela. Konto z historią i obserwującymi wygląda wiarygodniej niż nowe, a reklama z Instagrama prowadzi na profil, który nie może być pusty |
+| 2026-11-15 | 6 reklam utworzonych w szkicu kampanii: strona „Uśnij”, Instagram @usnij.pl, link na usnij.pl z UTM, 4:5 w aktualnościach i 9:16 w Stories/Reels. Oznaczenie AI zostawione puste | Właściciel założył stronę i podpiął Instagram. Link od razu na usnij.pl, bo kampanię publikujemy dopiero po podpięciu domeny. Na pytanie o oznaczenie AI właściciel wybrał „nie oznaczaj”; nie deklarujemy „bez AI”, bo to nieprawda |
