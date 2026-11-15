@@ -88,7 +88,7 @@ def wymiary(plik):
     return s["width"], s["height"]
 
 
-def ujecie(src, fmt, wyj, start=0.0, dur=None, fokus_y=0.5, zoom=1.0, ken_burns=0.0, predkosc=1.0):
+def ujecie(src, fmt, wyj, start=0.0, dur=None, fokus_y=0.5, zoom=1.0, ken_burns=0.0, predkosc=1.0, fokus_x=0.5):
     """Jedno ujęcie: klip wideo albo zdjęcie (z delikatnym najazdem kamery), w formacie fmt, 30 fps."""
     w, h = FORMATY[fmt]
     src = Path(src)
@@ -98,7 +98,7 @@ def ujecie(src, fmt, wyj, start=0.0, dur=None, fokus_y=0.5, zoom=1.0, ken_burns=
         # duże skalowanie przed zoompan, żeby najazd był płynny
         s = max(w / sw, h / sh) * zoom * 2
         bw, bh = int(sw * s) // 2 * 2, int(sh * s) // 2 * 2
-        x = (bw - 2 * w) // 2
+        x = int(min(max((bw - 2 * w) * fokus_x, 0), bw - 2 * w))
         y = int(min(max((bh - 2 * h) * fokus_y, 0), bh - 2 * h))
         vf = (f"scale={bw}:{bh}:flags=lanczos,crop={2*w}:{2*h}:{x}:{y},"
               f"zoompan=z='1+{ken_burns}*on/{n}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={n}:s={w}x{h}:fps={FPS},"
@@ -150,7 +150,9 @@ def z_napisami(wideo, napisy, wyj):
     filt, prev = [], "[0:v]"
     for i, (png, od, do) in enumerate(napisy, start=1):
         wej += ["-loop", "1", "-t", f"{do + 0.5:.2f}", "-i", str(png)]
-        filt.append(f"[{i}:v]format=rgba,fade=t=in:st={od:.2f}:d=0.25:alpha=1,"
+        # napis od pierwszej klatki (hak) jest widoczny od razu, bez płynnego wejścia
+        wejscie = "" if od <= 0.01 else f"fade=t=in:st={od:.2f}:d=0.25:alpha=1,"
+        filt.append(f"[{i}:v]format=rgba,{wejscie}"
                     f"fade=t=out:st={do - 0.25:.2f}:d=0.25:alpha=1[n{i}]")
         filt.append(f"{prev}[n{i}]overlay=0:0:enable='between(t,{od:.2f},{do:.2f})':shortest=0[v{i}]")
         prev = f"[v{i}]"

@@ -91,7 +91,8 @@ Puste pola oznaczone są „—”.
   - Higgsfield: konto osiągnęło dzienny limit generowania w okresie przejściowym (grace period), 7 z 10 zdjęć nie przeszło. ZAŁATWIONE 14.11.2026 (niżej)
   - Zdjęcia i wideo, druga tura (14.11.2026, plan Plus, 1000 kredytów): 11 zdjęć gpt_image_2_6 w jakości xhigh 2K (4,5 kr./szt., razem 49,5 kr.) + wideo do hero Seedance 2.5, 5 s, 720p, bez dźwięku (35 kr.). Razem 84,5 kr., saldo 915,5 kr. Oryginały w `produkt/higgsfield/`: szary i różowy packshot, mężczyzna z czarną maską, para (ona śpi w czarnej masce, on czyta przy lampce), pudełko z 2 maskami (szara + czarna), szara maska na poduszce wieczorem, maska w dłoniach, 3 makro (środek, polar, koniec), wideo `szara-lozko-petla-5s.mp4`. Wersje do strony w `sklep/podglad/img/` (JPG 1000–1200 px; wideo zapętlone tam i z powrotem, 10 s, 300 KB)
   - POTWIERDZONE zdjęciami z Teemdropu (15.11.2026, `produkt/dostawca-infografika-szara.jpg`, `dostawca-przepiecie-z-tylu.jpg`, `dostawca-rozowa-na-boku.jpg`): 4 komory ze szklanymi kulkami („4 glass bead filled blocks”), podwójny polar, końce bez wypełnienia (można położyć płasko pod głową), na jednym końcu OTWÓR do przepinania: drugi koniec przekłada się przez otwór i maska jest zapięta wokół głowy (z tyłu krzyżuje się jak turban). Różowa na zdjęciu w użyciu ma takie same wypukłe komory jak szara. Waga 240 g nadal niepotwierdzona (opis z 240 g mówi o jedwabiu i 6 kolorach, nasza maska to polar w 3 kolorach i 70 × 12 cm)
-  - Różowa maska: na zdjęciu dostawcy wygląda inaczej niż szara i czarna (płaska taśma z przeszyciami zamiast „kokardki” z wypełnionymi komorami). Packshot różowej zrobiony 1:1 według zdjęcia dostawcy. Wersja w kształcie szarej istnieje (`rozowa-packshot-ksztalt-szarej-NIE-UZYWAC.jpg`), ale NIE używamy jej, dopóki Teemdrop nie potwierdzi zdjęciem, że różowa wygląda tak samo jak szara
+  - Różowa maska (AKTUALNE 15.11.2026): na zdjęciu dostawcy w użyciu ma takie same wypukłe komory jak szara, więc w sklepie packshot `rozowa-packshot.jpg` jest w tym kształcie, a zdjęcia różowej w łóżku i przy choince wygenerowane od nowa (`rozowa-lozko-v2.jpg`, `rozowa-prezent-choinka-v2.jpg`). Stare, zbyt płaskie wersje mają w nazwie „stara-plaska” / „zlozona”. W reklamach różowej nadal nie używamy, dopóki Teemdrop nie pokaże prawdziwej sztuki
+  - Podgląd v3 (15.11.2026): przepinanie z tyłu (karta „Przepinana z tyłu”, FAQ „Czy mogę spać na boku?”, w galerii zdjęcia `zapieta-z-tylu.jpg` i `na-boku-zapieta.jpg`, razem 10 zdjęć), waga oznaczona „do potwierdzenia”, wymiary ok. 70 × 12 cm wg opisu dostawcy. Test na telefonie i komputerze bez błędów. Link do podglądu bez zmian
   - Podgląd v2 (14.11.2026): hero z zapętlonym wideo (osoby z wyłączonymi animacjami widzą nieruchomą klatkę), zdjęcia przy 3 krokach „Jak to działa”, galeria produktu 8 zdjęć (3 kolory + 5 w użyciu), korzyść ze zdjęciem pary, nowe „Z bliska”, prezent z 2 maskami, galeria przyklejona na komputerze. Test na telefonie i komputerze bez błędów. Podgląd online (prywatny): https://claude.ai/artifact/H1Jy13nsoEaRpYQZeSi3mj
   - Brakuje jeszcze: wymiarów maski, danych producenta do GPSR, instrukcji podgrzewania (na stronie nie obiecujemy podgrzewania)
   - Następne kroki wg briefu: akceptacja podglądu → motyw NIEOPUBLIKOWANY w Shopify + produkt z wariantami → lista rzeczy do kliknięcia w panelu
@@ -104,9 +105,129 @@ Puste pola oznaczone są „—”.
 
 ## Reklamy
 
-- Narzędzie do kreacji: Higgsfield
-- Gotowe kreacje (pliki w folderze `reklamy/`): —
-- Najlepsze haczyki (pierwsze 3 sekundy): —
+- Narzędzie do kreacji: Higgsfield (zdjęcia gpt_image_2_6 xhigh 2K, wideo Seedance 2.5); napisy, ceny i plansze w Pythonie (Pillow + ffmpeg), fonty Fraunces i Inter
+- Research (14.11.2026): `wyniki/2026-11-14-research-reklam.md`. Najdłużej emitowane reklamy w niszy: Mellow (od 04.2026, wideo 7–8 s, UGC), Do Not Disturb (statyk z 3 punktami), Aelo/Eye Serenity (maski na oczy od 2025). Powtarzają się haki: „3 w nocy / głowa nie chce się wyłączyć”, „wyrzuć starą maskę” (zsuwa się, gumka, światło bokiem), prezent, „zakładam i świat znika”
+- Gotowe kreacje (15.11.2026), każda w 4:5 (1080×1350) i 9:16 (1080×1920), bez metadanych, w folderze `reklamy/`:
+  1. `reklama-1-*.jpg`: statyk z ceną; szara maska na poduszce przy lampce; „Ciemność i delikatny ciężar na powiekach.”; „2 maski ~~278 zł~~ 199 zł, darmowa dostawa” + dopisek, że 278 zł to cena 2 masek kupionych osobno (Omnibus: nie wymyślamy „starej ceny”)
+  2. `reklama-2-*.jpg`: statyk świąteczny bez dat; pudełko z szarą i czarną maską pod choinką; „Prezent dla kogoś, kto mówi: »znowu nie spałam«.”; 2 maski 199 zł
+  3. `reklama-3-*.mp4` (8 s): wideo AI; maska opada na oczy od pierwszej klatki, gaśnie lampka; napisy „Delikatny ciężar na powiekach” → „4 komory ze szklanymi kulkami” → „Ciemno. Cicho. Spokojnie.”
+  4. `reklama-4-*.mp4` (9 s): wideo AI problem → rozwiązanie; „3:07. Znowu nie śpisz, a obok świeci lampka?” → „Połóż maskę na oczach.” → „Ciemno. Cicho. Spokojnie.”; czarna maska
+  5. `reklama-5-*.mp4` (9,6 s): montaż od rozpakowania do efektu: pudełko → maska w dłoniach → na oczy → gaśnie światło
+  6. `reklama-6-*.mp4` (9,9 s): montaż z hakiem tekstowym od pierwszej klatki „Twoja maska się zsuwa i przepuszcza światło?” + zbliżenia (4 komory, polar, końce) + przepinanie z tyłu głowy + maska na oczach
+  - Każde wideo kończy 2-sekundowa plansza: usnij., „2 maski 199 zł”, „darmowa dostawa · 1 maska 139 zł”. Wideo bez dźwięku (muzykę dodać z biblioteki Meta w Menedżerze reklam)
+  - Różowej maski NIE ma w reklamach (do potwierdzenia u Teemdropu, jak wygląda prawdziwa sztuka)
+  - Źródła i skrypty do ponownego wygenerowania: `reklamy/zrodla/` (statyki.py, reklamy_ai.py, reklamy_montaz.py, wideo.py, usnij_grafika.py), stykówka ujęć: `reklamy/stykowka-montaze.jpg`
+  - Koszt Higgsfield na reklamy: 344 kr. (14–15.11) + 102,5 kr. (przepinanie i różowa, 15.11). Odrzucony 1 klip (zbliżenie z palcem: model zmienił przeszycia maski)
+- Najlepsze haczyki (pierwsze 3 sekundy) do testu: „3:07. Znowu nie śpisz, a obok świeci lampka?” (r. 4), „Twoja maska się zsuwa i przepuszcza światło?” (r. 6), maska opadająca na oczy bez słów (r. 3). Wynik testu: — (uzupełnić po kampanii)
+- Teksty reklam (pełne w `reklamy/teksty.md`); przycisk we wszystkich: Kup teraz
+
+#### Reklama 1: statyk z ceną (`reklama-1-4x5.jpg`, `reklama-1-9x16.jpg`)
+
+**Nagłówek (34 znaki):** 2 maski za 199 zł, dostawa gratis
+
+**Tekst główny:**
+
+Wieczorem gasisz światło, a głowa dalej pracuje?
+
+Usnij to obciążeniowa maska na oczy: szklane kulki zamknięte w miękkim polarze. Daje ciemność i delikatny, równy ciężar na powiekach.
+
+Bez gumki za głową. Końce kładziesz na poduszce albo przepinasz z tyłu głowy.
+
+2 maski kosztują 199 zł zamiast 278 zł, które zapłacisz, kupując je osobno, a dostawa jest gratis. Jedna dla Ciebie, druga dla bliskiej osoby.
+
+Masz 30 dni na zwrot bez podawania przyczyny.
+
+**Przycisk:** Kup teraz
+
+---
+
+#### Reklama 2: statyk świąteczny (`reklama-2-4x5.jpg`, `reklama-2-9x16.jpg`)
+
+**Nagłówek (26 znaków):** Prezent: 2 maski za 199 zł
+
+**Tekst główny:**
+
+Znasz kogoś, kto co rano mówi „znowu nie spałam”?
+
+Usnij to obciążeniowa maska na oczy ze szklanymi kulkami w miękkim polarze. Ciemność i delikatny ciężar na powiekach, kiedy kończy się dzień.
+
+Zestaw 2 masek kosztuje 199 zł z darmową dostawą: jedna pod choinkę, druga dla Ciebie.
+
+Dostawa trwa 8–18 dni i dostajesz numer śledzenia, więc na prezent zamów z wyprzedzeniem. Jeśli nie trafi w gust, masz 30 dni na zwrot.
+
+**Przycisk:** Kup teraz
+
+---
+
+#### Reklama 3: wideo AI, efekt „wow” (`reklama-3-4x5.mp4`, `reklama-3-9x16.mp4`)
+
+**Nagłówek (29 znaków):** Delikatny ciężar na powiekach
+
+**Tekst główny:**
+
+Tak wygląda koniec dnia z maską Usnij.
+
+Kładziesz ją na oczach, a szklane kulki w 4 komorach rozkładają ciężar równo po powiekach.
+
+Miękki, podwójny polar. Bez gumki, bez kabli, nic do ładowania.
+
+1 maska kosztuje 139 zł, a 2 maski 199 zł z darmową dostawą.
+
+**Przycisk:** Kup teraz
+
+---
+
+#### Reklama 4: wideo AI, problem → rozwiązanie (`reklama-4-4x5.mp4`, `reklama-4-9x16.mp4`)
+
+**Nagłówek (36 znaków):** Ciemno, nawet gdy obok świeci lampka
+
+**Tekst główny:**
+
+Ty chcesz spać, a obok ktoś jeszcze czyta przy lampce albo przewija telefon.
+
+Połóż na oczach maskę Usnij. Przykrywa oczy i czoło, a szklane kulki w miękkim polarze dają delikatny ciężar na powiekach.
+
+Końce bez wypełnienia leżą płasko na poduszce, więc nic nie ciągnie za włosy.
+
+2 maski kosztują 199 zł z darmową dostawą, więc jedna może być dla tej osoby z lampką. Masz 30 dni na zwrot.
+
+**Przycisk:** Kup teraz
+
+---
+
+#### Reklama 5: montaż od rozpakowania do efektu (`reklama-5-4x5.mp4`, `reklama-5-9x16.mp4`)
+
+**Nagłówek (39 znaków):** Rozpakuj, połóż na oczach, zgaś światło
+
+**Tekst główny:**
+
+Tak wygląda maska Usnij od pudełka do pierwszego wieczoru.
+
+W środku jest obciążeniowa maska: szklane kulki w miękkim, podwójnym polarze. Czuć jej ciężar w dłoni, a na powiekach jest miękka.
+
+Kładziesz ją na oczach, płaskie końce zostawiasz na poduszce i gasisz światło.
+
+Zestaw 2 masek kosztuje 199 zł z darmową dostawą. Dostawa trwa 8–18 dni i dostajesz numer śledzenia.
+
+**Przycisk:** Kup teraz
+
+---
+
+#### Reklama 6: montaż z hakiem tekstowym i zbliżeniami (`reklama-6-4x5.mp4`, `reklama-6-9x16.mp4`)
+
+**Nagłówek (33 znaki):** Maska bez gumki, za to z ciężarem
+
+**Tekst główny:**
+
+Zwykła maska do spania zsuwa się w nocy, gumka ciągnie za włosy, a światło wpada bokiem?
+
+Usnij jest zrobiona inaczej. Szklane kulki są w 4 komorach, więc ciężar rozkłada się równo. Z wierzchu jest miękki, podwójny polar.
+
+Nie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z tyłu głowy: jeden koniec przekładasz przez otwór w drugim, np. do spania na boku.
+
+1 maska kosztuje 139 zł, a 2 maski 199 zł z darmową dostawą. Masz 30 dni na zwrot bez podawania przyczyny.
+
+**Przycisk:** Kup teraz
 
 ## Kampania
 
@@ -140,3 +261,6 @@ Puste pola oznaczone są „—”.
 | 2026-11-12 | Zbudowany podgląd sklepu Usnij (strona główna + produkt), przetestowany na telefonie i komputerze | Krok 1 briefu. Czeka na akceptację właściciela, zdjęcia od dostawcy i zgodę na koszt Higgsfield |
 | 2026-11-14 | Higgsfield: zamiast Ultra za 129 $ właściciel wziął mniejszy plan (Plus, 1000 kredytów/mies.) | Potrzebujemy mało kredytów (zdjęcie 4,5 kr., film reklamowy 35–120 kr.). Różnica ok. 300 zł zostaje na reklamy. Na Ultra przechodzimy dopiero, gdy reklamy zaczną sprzedawać (dopłata tylko za resztę miesiąca) |
 | 2026-11-14 | Dogenerowane zdjęcia i wideo do sklepu (84,5 kr.), podgląd zaktualizowany i przetestowany | Wszystkie zdjęcia z briefu są gotowe, produkt 1:1 jak u dostawcy. Różowa zostaje w kształcie ze zdjęcia dostawcy, dopóki Teemdrop nie pokaże prawdziwej sztuki. Czeka na akceptację właściciela, potem motyw NIEOPUBLIKOWANY w Shopify |
+| 2026-11-15 | 6 reklam gotowych (2 statyki, 2 wideo AI, 2 montaże), każda w 4:5 i 9:16, teksty w `reklamy/teksty.md` | Brief właściciela. Waga 240 g usunięta z reklam (niepotwierdzona dla wariantu z kulkami), w zamian „4 komory ze szklanymi kulkami” z infografiki dostawcy. Pokazane przepinanie z tyłu głowy (potwierdzone zdjęciami z Teemdropu) |
+| 2026-11-15 | Sklep: różowa maska pokazana w prawdziwym kształcie (wypukłe komory, wg zdjęcia dostawcy w użyciu), dodane przepinanie z tyłu (karta cechy, FAQ „Czy mogę spać na boku?”, 2 zdjęcia w galerii); waga oznaczona „do potwierdzenia” | Zgodność z produktem i zero obietnic, których nie da się sprawdzić |
+

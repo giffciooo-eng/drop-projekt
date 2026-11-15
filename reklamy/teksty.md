@@ -1,8 +1,8 @@
 # Teksty reklam Usnij (Meta: Facebook i Instagram)
 
-Zasady: tylko fakty, które da się sprawdzić (cena, zestaw, dostawa, zwrot, materiał, waga podana przez dostawcę). Bez „szybciej zaśniesz”, „100% ciemności”, bez obietnic zdrowotnych. Przycisk we wszystkich reklamach: **Kup teraz**.
+Zasady: tylko fakty, które da się sprawdzić (cena, zestaw, dostawa, zwrot, materiał i budowa potwierdzone zdjęciami dostawcy). Bez „szybciej zaśniesz”, „100% ciemności”, bez obietnic zdrowotnych. Przycisk we wszystkich reklamach: **Kup teraz**.
 
-Fakty użyte w tekstach (źródło: biznes.md): 1 maska 139 zł + 12,99 zł dostawy; 2 maski 199 zł z darmową dostawą (osobno 2 × 139 zł = 278 zł); waga maski 240 g wg dostawcy; szklane kulki w miękkim, podwójnym polarze; płaskie końce bez wypełnienia, bez gumki; dostawa 8–18 dni z numerem śledzenia; 30 dni na zwrot bez podawania przyczyny; BLIK, karta, szybki przelew.
+Fakty użyte w tekstach (źródło: biznes.md i infografika dostawcy `produkt/dostawca-infografika-szara.jpg`): 1 maska 139 zł + 12,99 zł dostawy; 2 maski 199 zł z darmową dostawą (osobno 2 × 139 zł = 278 zł); 4 komory ze szklanymi kulkami; miękki, podwójny polar; końce bez wypełnienia, które kładzie się na poduszce albo pod głową; otwór na jednym końcu, przez który przekłada się drugi koniec, żeby zapiąć maskę z tyłu głowy; bez gumki; dostawa 8–18 dni z numerem śledzenia; 30 dni na zwrot bez podawania przyczyny; BLIK, karta, szybki przelew. NIE używamy wagi 240 g, dopóki Teemdrop jej nie potwierdzi dla wariantu z kulkami.
 
 ---
 
@@ -16,7 +16,7 @@ Wieczorem gasisz światło, a głowa dalej pracuje?
 
 Usnij to obciążeniowa maska na oczy: szklane kulki zamknięte w miękkim polarze. Daje ciemność i delikatny, równy ciężar na powiekach.
 
-Bez gumki za głową. Płaskie końce kładziesz na poduszce.
+Bez gumki za głową. Końce kładziesz na poduszce albo przepinasz z tyłu głowy.
 
 2 maski kosztują 199 zł zamiast 278 zł, które zapłacisz, kupując je osobno, a dostawa jest gratis. Jedna dla Ciebie, druga dla bliskiej osoby.
 
@@ -46,13 +46,13 @@ Dostawa trwa 8–18 dni i dostajesz numer śledzenia, więc na prezent zamów z 
 
 ## Reklama 3: wideo AI, efekt „wow” (`reklama-3-4x5.mp4`, `reklama-3-9x16.mp4`)
 
-**Nagłówek (26 znaków):** 240 g spokoju na powiekach
+**Nagłówek (29 znaków):** Delikatny ciężar na powiekach
 
 **Tekst główny:**
 
 Tak wygląda koniec dnia z maską Usnij.
 
-Kładziesz ją na oczach, a ciężar szklanych kulek rozkłada się po powiekach. Maska waży 240 g (według dostawcy).
+Kładziesz ją na oczach, a szklane kulki w 4 komorach rozkładają ciężar równo po powiekach.
 
 Miękki, podwójny polar. Bez gumki, bez kabli, nic do ładowania.
 
@@ -88,7 +88,7 @@ Końce bez wypełnienia leżą płasko na poduszce, więc nic nie ciągnie za w�
 
 Tak wygląda maska Usnij od pudełka do pierwszego wieczoru.
 
-W środku jest obciążeniowa maska: szklane kulki w miękkim, podwójnym polarze. Jest ciężka w dłoni i miękka na powiekach.
+W środku jest obciążeniowa maska: szklane kulki w miękkim, podwójnym polarze. Czuć jej ciężar w dłoni, a na powiekach jest miękka.
 
 Kładziesz ją na oczach, płaskie końce zostawiasz na poduszce i gasisz światło.
 
@@ -108,7 +108,7 @@ Zwykła maska do spania zsuwa się w nocy, gumka ciągnie za włosy, a światło
 
 Usnij jest zrobiona inaczej. Szklane kulki są w 4 komorach, więc ciężar rozkłada się równo. Z wierzchu jest miękki, podwójny polar.
 
-Nie ma gumki. Płaskie końce bez wypełnienia leżą na poduszce albo pod głową.
+Nie ma gumki. Końce bez wypełnienia kładziesz na poduszce albo przepinasz z tyłu głowy: jeden koniec przekładasz przez otwór w drugim, np. do spania na boku.
 
 1 maska kosztuje 139 zł, a 2 maski 199 zł z darmową dostawą. Masz 30 dni na zwrot bez podawania przyczyny.
 

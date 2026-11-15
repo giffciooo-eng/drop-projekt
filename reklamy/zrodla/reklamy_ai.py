@@ -12,8 +12,8 @@ REKLAMY = {
         "zrodlo": HF / "r3-wideo.mp4",
         "pozycja": "gora",
         "napisy": [
-            (["240 g spokoju", "na powiekach"], 0.0, 2.3),
-            (["Szklane kulki", "w miękkim polarze"], 2.45, 4.25),
+            (["Delikatny ciężar", "na powiekach"], 0.0, 2.3),
+            (["4 komory", "ze szklanymi kulkami"], 2.45, 4.25),
             (["Ciemno. Cicho.", "Spokojnie."], 4.4, 6.0),
         ],
     },
@@ -53,6 +53,8 @@ def zbuduj(nr, fmt):
 
 
 if __name__ == "__main__":
-    for nr in (3, 4):
+    import sys
+    numery = [int(a) for a in sys.argv[1:]] or [3, 4]
+    for nr in numery:
         for fmt in ("4x5", "9x16"):
             print(zbuduj(nr, fmt), round(v.dlugosc(v.WYJ / f"reklama-{nr}-{fmt}.mp4"), 2), "s")
