@@ -1,0 +1,112 @@
+{%- comment -%} Usnij: strona główna (hero z pętlą wideo, konkrety, karta produktu, jak to działa, prezent, opinie, FAQ). {%- endcomment -%}
+{{ 'usnij.css' | asset_url | stylesheet_tag }}
+{%- assign p = section.settings.produkt | default: all_products['usnij-obciazeniowa-maska-na-oczy-do-spania'] -%}
+{%- if p and p.url -%}{%- assign link = p.url -%}{%- else -%}{%- assign link = routes.all_products_collection_url -%}{%- endif -%}
+<div class="usnij" data-usnij-home>
+
+<section class="hero"><div class="wrap">
+  <div class="hero-media">
+    <video autoplay muted loop playsinline preload="auto" poster="{{ 'usnij-hero-poster.jpg' | file_url }}" aria-label="Kobieta spokojnie odpoczywa w łóżku z szarą obciążeniową maską Usnij na oczach, ciepłe światło lampki"><source src="{{ 'usnij-hero-petla.mp4' | file_url }}" type="video/mp4"></video>
+  </div>
+  <div>
+    <p class="small" style="color:#e2a355;font-weight:700;letter-spacing:.5px;text-transform:uppercase;margin-bottom:.6em">Obciążeniowa maska na oczy</p>
+    <h1>Ciemność i delikatny ciężar. Łatwiej się wyciszyć.</h1>
+    <p class="lead">Szklane kulki w miękkim polarze leżą na powiekach lekko i równo. Gasisz lampkę i jest ciemno, cicho, spokojnie.</p>
+    <a class="btn" href="{{ link }}">Zobacz maskę</a>
+    <p class="small" style="color:#a9a6b8;margin-top:12px">139 zł · 2 sztuki 199 zł z darmową dostawą</p>
+  </div>
+</div></section>
+
+<div class="wrap"><div class="trust">
+  <div><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 6h11v9H3zM14 9h4l3 3v3h-7"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/></svg>Dostawa 8–18 dni, z numerem śledzenia</div>
+  <div><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 12a8 8 0 1 0 3-6.2"/><path d="M4 4v4h4"/></svg>30 dni na zwrot bez podawania przyczyny</div>
+  <div><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18"/></svg>BLIK, karta, szybki przelew</div>
+  <div><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Cena końcowa, bez cła i dopłat przy odbiorze</div>
+</div></div>
+
+<section><div class="wrap">
+  <h2 class="center">Maska Usnij</h2>
+  <div class="pcard">
+    <a class="media" href="{{ link }}"><img data-color-img src="{{ 'usnij-szara-packshot.jpg' | file_url }}" alt="Szara obciążeniowa maska na oczy Usnij" width="1200" height="1200" loading="lazy"></a>
+    <div>
+      <h3 style="font-size:1.35rem">Obciążeniowa maska na oczy do spania</h3>
+      <p class="small">Szklane kulki w 4 komorach, miękki podwójny polar. Końce kładziesz na poduszce albo przepinasz z tyłu głowy.</p>
+      <div class="label">Kolor: <span data-color-name>Szary</span></div>
+      <div class="swatches">
+        <button type="button" class="sw" aria-pressed="false" data-kolor="Czarny" data-img="{{ 'usnij-czarna-packshot.jpg' | file_url }}"><i style="background:#1d1d22"></i>Czarny</button>
+        <button type="button" class="sw" aria-pressed="true" data-kolor="Szary" data-img="{{ 'usnij-szara-packshot.jpg' | file_url }}"><i style="background:#9b9ca3"></i>Szary</button>
+        <button type="button" class="sw" aria-pressed="false" data-kolor="Różowy" data-img="{{ 'usnij-rozowa-packshot.jpg' | file_url }}"><i style="background:#e8b8c4"></i>Różowy</button>
+      </div>
+      <p class="price">139 zł <small>· 2 sztuki 199 zł z darmową dostawą</small></p>
+      <a class="btn block" data-product-link href="{{ link }}">Wybierz zestaw</a>
+    </div>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <h2 class="center">Jak to działa</h2>
+  <p class="lead center">Trzy kroki, zero ładowania i kabli.</p>
+  <div class="steps">
+    <div class="step"><img src="{{ 'usnij-w-dloniach.jpg' | file_url }}" alt="Dłonie trzymają miękką szarą maskę Usnij" loading="lazy" width="1000" height="1000"><div class="body"><div class="num">1</div><h3>Połóż maskę na oczach</h3><p class="small">Szklane kulki w 4 komorach przykrywają oczy i czoło. Ciężar rozkłada się równo.</p></div></div>
+    <div class="step"><img src="{{ 'usnij-makro-koniec.jpg' | file_url }}" alt="Płaski koniec szarej maski leży na poduszce" loading="lazy" width="1000" height="1000"><div class="body"><div class="num">2</div><h3>Ułóż końce albo przepnij</h3><p class="small">Końce bez wypełnienia kładziesz na poduszce albo przepinasz z tyłu głowy: jeden przez otwór w drugim. Bez gumki.</p></div></div>
+    <div class="step"><img src="{{ 'usnij-czarna-w-lozku.jpg' | file_url }}" alt="Mężczyzna odpoczywa w ciemnej sypialni z czarną maską Usnij na oczach" style="object-position:center 30%" loading="lazy" width="1000" height="1000"><div class="body"><div class="num">3</div><h3>Zgaś światło</h3><p class="small">Ciemno, cicho, spokojnie. Zostajesz tylko Ty i delikatny ciężar na powiekach.</p></div></div>
+  </div>
+</div></section>
+
+<section class="dark"><div class="wrap gift">
+  <img src="{{ 'usnij-rozowa-prezent.jpg' | file_url }}" alt="Kobieta przy choince trzyma różową maskę Usnij wyjętą z prezentu" style="border-radius:14px" loading="lazy" width="1200" height="1500">
+  <div>
+    <h2>Prezent dla kogoś, kto mówi „znowu nie spałam”</h2>
+    <p class="lead">Dla mamy, żony, przyjaciółki. Albo jedna dla Ciebie, druga na prezent.</p>
+    <p><b style="color:#e2a355;font-size:1.3rem">2 maski za 199 zł</b> · darmowa dostawa · oszczędzasz 79 zł</p>
+    {%- if section.settings.notka_prezent != blank -%}<p class="note">{{ section.settings.notka_prezent }}</p>{%- endif -%}
+    <a class="btn" href="{{ link }}">Wybierz kolory</a>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <h2 class="center">Opinie klientów</h2>
+  <div class="reviews-slot">Opinie klientów pojawią się tutaj po pierwszych zamówieniach.</div>
+</div></section>
+
+<section class="alt" id="faq"><div class="wrap">
+  <h2 class="center">Pytania i odpowiedzi</h2>
+  <details><summary>Ile trwa dostawa?</summary><div class="in">8 do 18 dni od zamówienia: 1–3 dni przygotowania i 7–15 dni transportu. Wysyłamy z magazynu zagranicznego, a numer śledzenia dostajesz mailem zaraz po nadaniu. Jeśli paczka nie dotrze w ciągu 25 dni od nadania, wysyłamy nową albo oddajemy pieniądze, do wyboru.</div></details>
+  <details><summary>Ile kosztuje dostawa?</summary><div class="in">Przy zamówieniu od 199 zł dostawa jest darmowa. Poniżej 199 zł kosztuje 12,99 zł. Cena jest końcowa, bez cła i dopłat przy odbiorze.</div></details>
+  <details><summary>Czy maska nie będzie za ciężka?</summary><div class="in">Kulki są w 4 osobnych komorach, więc ciężar rozkłada się równo na oczach i czole, zamiast uciskać jeden punkt. Jeśli Ci nie posłuży, masz 30 dni na zwrot.</div></details>
+  <details><summary>Czy zsunie się w nocy?</summary><div class="in">Końce maski są bez wypełnienia i leżą płasko na poduszce albo pod głową. Możesz też przepiąć maskę z tyłu głowy: jeden koniec przekładasz przez otwór w drugim. Bez gumki.</div></details>
+  <details><summary>Czy to leczy bezsenność?</summary><div class="in">Nie. To nie jest wyrób medyczny. Maska daje ciemność i delikatny, równy ciężar na powiekach, co wielu osobom pomaga się wyciszyć.</div></details>
+  <details><summary>Jak zwrócić produkt?</summary><div class="in">Masz 30 dni od odbioru na zwrot bez podawania przyczyny (ustawowo 14 dni, wydłużamy dobrowolnie). Napisz do nas z numerem zamówienia, a pieniądze oddamy w ciągu 14 dni od otrzymania paczki.</div></details>
+</div></section>
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector('[data-usnij-home]');
+  if (!root) return;
+  var img = root.querySelector('[data-color-img]'), nazwa = root.querySelector('[data-color-name]');
+  root.querySelectorAll('.pcard .sw').forEach(function (b) {
+    b.addEventListener('click', function () {
+      root.querySelectorAll('.pcard .sw').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+      if (img) { img.src = b.dataset.img; img.alt = b.dataset.kolor + ' obciążeniowa maska na oczy Usnij'; }
+      if (nazwa) nazwa.textContent = b.dataset.kolor;
+    });
+  });
+})();
+</script>
+
+{% schema %}
+{
+  "name": "Usnij: strona główna",
+  "settings": [
+    { "type": "product", "id": "produkt", "label": "Produkt" },
+    {
+      "type": "textarea",
+      "id": "notka_prezent",
+      "label": "Notka pod ofertą prezentową",
+      "default": "Na święta: dostawa trwa 8–18 dni od zamówienia (czas podany przez dostawcę). Żeby zdążyć przed Wigilią, zamów najpóźniej do 5 grudnia."
+    }
+  ],
+  "presets": [{ "name": "Usnij: strona główna" }]
+}
+{% endschema %}

@@ -1,0 +1,6 @@
+{
+  "sections": {
+    "main": { "type": "usnij-product", "settings": {} }
+  },
+  "order": ["main"]
+}

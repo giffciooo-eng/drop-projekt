@@ -1,0 +1,31 @@
+{
+  "produkt": "gid://shopify/Product/15981425328468",
+  "warianty": {
+    "Szary / 1 maska": "gid://shopify/ProductVariant/58366026416468",
+    "Szary / 2 maski": "gid://shopify/ProductVariant/58366026449236",
+    "Czarny / 1 maska": "gid://shopify/ProductVariant/58366026482004",
+    "Czarny / 2 maski": "gid://shopify/ProductVariant/58366026514772",
+    "Różowy / 1 maska": "gid://shopify/ProductVariant/58366026547540",
+    "Różowy / 2 maski": "gid://shopify/ProductVariant/58366026580308"
+  },
+  "pliki": {
+    "usnij-szara-packshot.jpg": "gid://shopify/MediaImage/75177013805396",
+    "usnij-czarna-packshot.jpg": "gid://shopify/MediaImage/75177013838164",
+    "usnij-rozowa-packshot.jpg": "gid://shopify/MediaImage/75177013870932",
+    "usnij-szara-w-lozku.jpg": "gid://shopify/MediaImage/75177013903700",
+    "usnij-zapieta-z-tylu.jpg": "gid://shopify/MediaImage/75177013936468",
+    "usnij-sen-na-boku.jpg": "gid://shopify/MediaImage/75177013969236",
+    "usnij-czarna-w-lozku.jpg": "gid://shopify/MediaImage/75177014002004",
+    "usnij-rozowa-w-lozku.jpg": "gid://shopify/MediaImage/75177014034772",
+    "usnij-prezent-2-maski.jpg": "gid://shopify/MediaImage/75177014067540",
+    "usnij-makro-srodek.jpg": "gid://shopify/MediaImage/75177014100308",
+    "usnij-makro-polar.jpg": "gid://shopify/MediaImage/75177014133076",
+    "usnij-makro-koniec.jpg": "gid://shopify/MediaImage/75177014165844",
+    "usnij-w-dloniach.jpg": "gid://shopify/MediaImage/75177014198612",
+    "usnij-para-lampka.jpg": "gid://shopify/MediaImage/75177014231380",
+    "usnij-poduszka-wieczor.jpg": "gid://shopify/MediaImage/75177014264148",
+    "usnij-rozowa-prezent.jpg": "gid://shopify/MediaImage/75177014296916",
+    "usnij-hero-poster.jpg": "gid://shopify/MediaImage/75177014329684",
+    "usnij-hero-petla.mp4": "gid://shopify/GenericFile/75177014395220"
+  }
+}
