@@ -264,10 +264,10 @@ Stan reklam: wszystkie 6 reklam utworzone w szkicu kampanii (bez błędów), str
 
 Do zrobienia przed startem (właściciel klika, kolejno):
 1. ~~Strona na Facebooku i Instagram~~ zrobione 15.11 (strona „Uśnij”, Instagram @usnij.pl).
-2. Domena usnij.pl podpięta w Shopify i ustawiona jako główna.
-3. Zgoda na publikację nowego motywu Usnij (motyw „Usnij (nowy wygląd, nieopublikowany)”) i zmiana nazwy sklepu na Usnij.
+2. ~~Domena usnij.pl~~ zrobione 15.11: podpięta i ustawiona jako główna, otulaj.pl przekierowuje na usnij.pl.
+3. Zgoda na nowy wygląd: jest (15.11). Do kliknięcia przez właściciela: Sklep online → Motywy → „Usnij (nowy wygląd, nieopublikowany)” → Opublikuj (połączenie Shopify nie ma uprawnień do publikacji). Zmiana nazwy sklepu na Usnij: Ustawienia → Szczegóły sklepu.
 4. Teemdrop: połączenie maski Gravity Beads (czarna, szara, różowa) z produktem w Shopify, zestaw „2 maski” = 2 sztuki.
-5. Polityki i strony Dostawa/Zwroty: zamiana treści o termoforze na ogólne (wspólne dla obu produktów).
+5. Strony Dostawa, Zwroty i reklamacje, Regulamin, Kontakt: przepisane pod Usnij 15.11 (bez termoforu i gwarancji na termofor, punkt 7 regulaminu o bezpiecznym używaniu maski). Polityki Shopify: do poprawienia ręcznie wg `sklep/polityki-do-zmiany.md` (połączenie nie ma uprawnień). Termofor Otulaj Uścisk ustawiony jako szkic (zniknął ze sklepu i katalogu Facebooka, można przywrócić).
 6. Po sprawdzeniu podglądu reklam: publikacja kampanii (start następnego dnia o 00:01).
 
 ## Dziennik decyzji
@@ -301,3 +301,4 @@ Do zrobienia przed startem (właściciel klika, kolejno):
 | 2026-11-15 | Kampania sprzedażowa Usnij w Menedżerze reklam jako szkic: cel Sprzedaż, zdarzenie Zakup, 50 zł dziennie, Polska, 18–65+, wszyscy, bez zainteresowań, start 16.11 o 00:01. Wgrane 12 plików reklam (6 reklam × 4:5 i 9:16) | Prompt właściciela „wszystko powgrywaj i poustawiaj”. Szkic niczego nie wydaje. Reklamy powstaną po założeniu strony „Usnij” na Facebooku (wybór właściciela: nowa strona zamiast Otulaj) |
 | 2026-11-15 | Instagram: zostaje dotychczasowe konto Otulaj, przerobione na Usnij (nowa nazwa, bio, zdjęcie, stare posty zarchiwizowane). Przygotowane: okładka strony na Facebooku, 9 pierwszych postów (6 zdjęć i karuzel, 3 rolki) z opisami w `social/instagram/posty.md` | Pytanie właściciela. Konto z historią i obserwującymi wygląda wiarygodniej niż nowe, a reklama z Instagrama prowadzi na profil, który nie może być pusty |
 | 2026-11-15 | 6 reklam utworzonych w szkicu kampanii: strona „Uśnij”, Instagram @usnij.pl, link na usnij.pl z UTM, 4:5 w aktualnościach i 9:16 w Stories/Reels. Oznaczenie AI zostawione puste | Właściciel założył stronę i podpiął Instagram. Link od razu na usnij.pl, bo kampanię publikujemy dopiero po podpięciu domeny. Na pytanie o oznaczenie AI właściciel wybrał „nie oznaczaj”; nie deklarujemy „bez AI”, bo to nieprawda |
+| 2026-11-15 | usnij.pl domeną główną; termofor Otulaj Uścisk ukryty (szkic); strony Dostawa, Zwroty, Regulamin, Kontakt przepisane pod Usnij; w stopce dane sprzedawcy bez „Sklep Internetowy Otulaj” i linki do Facebooka i Instagrama | Zgoda właściciela na publikację nowego wyglądu, ukrycie termoforu i przepisanie stron. Publikację motywu i polityki właściciel klika sam, bo połączenie Shopify nie ma do tego uprawnień. Sprzedaż jako działalność nierejestrowana: pilnować limitu przychodu |

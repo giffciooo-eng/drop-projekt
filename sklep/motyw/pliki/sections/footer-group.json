@@ -67,7 +67,7 @@
             "text_f9CFLH": {
               "type": "text",
               "settings": {
-                "text": "<p>Obciążeniowa maska na oczy do spania. Dostawa 8–18 dni ze śledzeniem, 30 dni na zwrot. Pytania: dealzeit.second@op.pl</p><p>Sprzedawca: Tomasz Gutkowski, Sklep Internetowy Otulaj, Zielona 18, 99-200 Poddębice, Polska</p>",
+                "text": "<p>Obciążeniowa maska na oczy do spania. Dostawa 8–18 dni ze śledzeniem, 30 dni na zwrot. Pytania: dealzeit.second@op.pl</p><p>Sprzedawca: Tomasz Gutkowski, Zielona 18, 99-200 Poddębice, Polska</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -157,8 +157,8 @@
         "social_links_Ew63Kq": {
           "type": "social-links",
           "settings": {
-            "facebook_url": "",
-            "instagram_url": "",
+            "facebook_url": "https://www.facebook.com/1505924689264199",
+            "instagram_url": "https://www.instagram.com/usnij.pl",
             "youtube_url": "",
             "tiktok_url": "",
             "twitter_url": ""
