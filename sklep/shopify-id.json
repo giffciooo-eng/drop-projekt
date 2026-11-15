@@ -1,12 +1,9 @@
 {
   "produkt": "gid://shopify/Product/15981425328468",
   "warianty": {
-    "Szary / 1 maska": "gid://shopify/ProductVariant/58366026416468",
-    "Szary / 2 maski": "gid://shopify/ProductVariant/58366026449236",
-    "Czarny / 1 maska": "gid://shopify/ProductVariant/58366026482004",
-    "Czarny / 2 maski": "gid://shopify/ProductVariant/58366026514772",
-    "Różowy / 1 maska": "gid://shopify/ProductVariant/58366026547540",
-    "Różowy / 2 maski": "gid://shopify/ProductVariant/58366026580308"
+    "Szary": "gid://shopify/ProductVariant/58366026416468",
+    "Czarny": "gid://shopify/ProductVariant/58366026482004",
+    "Różowy": "gid://shopify/ProductVariant/58366026547540"
   },
   "pliki": {
     "usnij-szara-packshot.jpg": "gid://shopify/MediaImage/75177013805396",
@@ -26,6 +23,14 @@
     "usnij-poduszka-wieczor.jpg": "gid://shopify/MediaImage/75177014264148",
     "usnij-rozowa-prezent.jpg": "gid://shopify/MediaImage/75177014296916",
     "usnij-hero-poster.jpg": "gid://shopify/MediaImage/75177014329684",
-    "usnij-hero-petla.mp4": "gid://shopify/GenericFile/75177014395220"
-  }
+    "usnij-hero-petla.mp4": "gid://shopify/GenericFile/75177014395220",
+    "usnij-logo.png": "gid://shopify/MediaImage/75177094906196",
+    "usnij-favicon.png": "gid://shopify/MediaImage/75177094938964"
+  },
+  "rabat_2_maski": "gid://shopify/DiscountAutomaticNode/2370495611220",
+  "motyw": {
+    "v1_usnij": "gid://shopify/OnlineStoreTheme/208982278484",
+    "v2_kolor_rabat": "gid://shopify/OnlineStoreTheme/209033167188"
+  },
+  "menu": "usnij-menu"
 }

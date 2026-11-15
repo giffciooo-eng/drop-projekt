@@ -3,6 +3,10 @@
 {%- assign p = product -%}
 {%- assign v0 = p.selected_or_first_available_variant -%}
 {%- assign start_media = v0.featured_media | default: p.featured_media -%}
+{%- comment -%} Zestaw = liczba sztuk tego samego koloru. Cena 2 sztuk = 2 × cena − rabat automatyczny „2 maski za 199 zł” (79 zł). {%- endcomment -%}
+{%- assign rabat2 = 7900 -%}
+{%- assign cena1 = v0.price -%}
+{%- assign cena2 = v0.price | times: 2 | minus: rabat2 -%}
 <div class="usnij" data-usnij-pdp>
 <div class="wrap pdp">
   <div class="gal">
@@ -28,6 +32,7 @@
 
     {%- form 'product', p, id: 'usnij-form', novalidate: 'novalidate' -%}
       <input type="hidden" name="id" value="{{ v0.id }}" data-variant-input>
+      <input type="hidden" name="quantity" value="2" data-qty-input>
 
       <div class="label">Kolor: <span data-color-name>{{ v0.option1 }}</span></div>
       <div class="swatches">
@@ -44,20 +49,19 @@
 
       <div class="label">Zestaw</div>
       <div class="sets">
-        {%- for val in p.options_with_values[1].values -%}
-          {%- assign cena = '' -%}
-          {%- for v in p.variants -%}{%- if v.option2 == val and cena == '' -%}{%- assign cena = v.price | money_without_trailing_zeros -%}{%- endif -%}{%- endfor -%}
-          <button type="button" class="set" data-value="{{ val | escape }}" aria-pressed="{% if val == v0.option2 %}true{% else %}false{% endif %}">
-            {%- if forloop.index == 2 -%}<span class="badge">Taniej na sztukę</span>{%- endif -%}
-            <span><span class="t">{{ val }}</span><br>
-              <span class="s">{%- if forloop.index == 2 -%}99,50 zł za sztukę · oszczędzasz 79 zł · darmowa dostawa{%- else -%}+ 12,99 zł dostawa{%- endif -%}</span></span>
-            <span class="p">{{ cena }}</span>
-          </button>
-        {%- endfor -%}
+        <button type="button" class="set" data-qty="1" aria-pressed="false">
+          <span><span class="t">1 maska</span><br><span class="s">+ 12,99 zł dostawa</span></span>
+          <span class="p">{{ cena1 | money_without_trailing_zeros }}</span>
+        </button>
+        <button type="button" class="set" data-qty="2" aria-pressed="true">
+          <span class="badge">Taniej na sztukę</span>
+          <span><span class="t">2 maski</span><br><span class="s">99,50 zł za sztukę · oszczędzasz 79 zł · darmowa dostawa</span></span>
+          <span class="p">{{ cena2 | money_without_trailing_zeros }}</span>
+        </button>
       </div>
-      <p class="small" style="margin-top:6px">W zestawie 2 maski w wybranym kolorze.</p>
+      <p class="small" style="margin-top:6px">2 maski w wybranym kolorze. Chcesz dwa różne kolory? Dodaj do koszyka każdą maskę osobno, a cena 199 zł za dwie naliczy się sama w koszyku.</p>
 
-      <div class="pricebox"><span class="price" data-price>{{ v0.price | money_without_trailing_zeros }}</span><span class="ship" data-ship></span></div>
+      <div class="pricebox"><span class="price" data-price>{{ cena2 | money_without_trailing_zeros }}</span><span class="ship" data-ship></span></div>
       <p class="small">Razem z dostawą: <b data-total></b></p>
       <button type="submit" class="btn block" id="main-atc" data-atc {% unless v0.available %}disabled{% endunless %}><span data-atc-label>Dodaj do koszyka</span></button>
     {%- endform -%}
@@ -70,7 +74,7 @@
 
     <div style="margin-top:18px">
       <details open><summary>Opis</summary><div class="in">{{ p.description }}</div></details>
-      <details><summary>Co jest w zestawie</summary><div class="in"><ul><li>1 maska: 1 × obciążeniowa maska na oczy</li><li>2 maski: 2 × obciążeniowa maska na oczy (w wybranym kolorze)</li></ul></div></details>
+      <details><summary>Co jest w zestawie</summary><div class="in"><ul><li>1 maska: 1 × obciążeniowa maska na oczy</li><li>2 maski: 2 × obciążeniowa maska na oczy w wybranym kolorze (różne kolory: dodaj każdą maskę osobno)</li></ul></div></details>
       <details><summary>Wymiary</summary><div class="in"><ul><li>Długość i szerokość: ok. 70 × 12 cm (wg opisu dostawcy)</li><li>Materiał: podwójny polar, wypełnienie: szklane kulki w 4 komorach</li><li>Na jednym końcu otwór do przepięcia maski z tyłu głowy</li></ul></div></details>
       <details><summary>Dostawa i zwroty</summary><div class="in"><ul><li>Dostawa 8–18 dni: 1–3 dni przygotowania + 7–15 dni transportu, z numerem śledzenia</li><li>Darmowa od 199 zł, poniżej 12,99 zł</li><li>Cena końcowa, bez cła i dopłat przy odbiorze</li><li>30 dni na zwrot bez podawania przyczyny</li><li>Paczka nie dotarła w 25 dni od nadania: nowa albo zwrot pieniędzy</li></ul></div></details>
     </div>
@@ -127,7 +131,7 @@
     <p class="lead">Dla mamy, żony, przyjaciółki, dla każdego, kto mówi „znowu nie spałam”.</p>
     <p><b style="color:#e2a355;font-size:1.3rem">2 maski za 199 zł</b> · darmowa dostawa · oszczędzasz 79 zł</p>
     <p class="note">Dostawa trwa 8–18 dni (czas podany przez dostawcę). Na święta zamów z wyprzedzeniem.</p>
-    <button type="button" class="btn" data-pick-set="2 maski">Wybieram 2 maski</button>
+    <button type="button" class="btn" data-pick-qty="2">Wybieram 2 maski</button>
   </div>
 </div></section>
 
@@ -147,8 +151,8 @@
 </div></section>
 
 <div class="sticky" aria-hidden="true"><div class="wrap">
-  <div class="info"><b><span data-set-name>{{ v0.option2 }}</span> · <span data-color-name>{{ v0.option1 }}</span></b><span data-ship></span></div>
-  <button type="button" class="btn" data-atc data-sticky-atc><span data-price>{{ v0.price | money_without_trailing_zeros }}</span> · Do koszyka</button>
+  <div class="info"><b><span data-set-name>2 maski</span> · <span data-color-name>{{ v0.option1 }}</span></b><span data-ship></span></div>
+  <button type="button" class="btn" data-atc data-sticky-atc><span data-price>{{ cena2 | money_without_trailing_zeros }}</span> · Do koszyka</button>
 </div></div>
 </div>
 
@@ -158,10 +162,13 @@
   var root = document.querySelector('[data-usnij-pdp]');
   if (!root) return;
   var P = JSON.parse(document.getElementById('usnij-product-json').textContent);
-  var start = P.variants.find(function (v) { return String(v.id) === root.querySelector('[data-variant-input]').value; }) || P.variants[0];
-  var sel = [start.option1, start.option2];
+  var RABAT = {{ rabat2 }};
+  var vIn = root.querySelector('[data-variant-input]'), qIn = root.querySelector('[data-qty-input]');
+  var start = P.variants.find(function (v) { return String(v.id) === vIn.value; }) || P.variants[0];
+  var kolor = start.option1, qty = 2;
   function zl(c) { var z = c / 100; return (Number.isInteger(z) ? String(z) : z.toFixed(2).replace('.', ',')) + ' zł'; }
-  function biezacy() { return P.variants.find(function (v) { return v.option1 === sel[0] && v.option2 === sel[1]; }); }
+  function biezacy() { return P.variants.find(function (v) { return v.option1 === kolor; }); }
+  function cena(v) { return qty === 2 ? v.price * 2 - RABAT : v.price; }
   function each(q, f) { root.querySelectorAll(q).forEach(f); }
   function zdjecie(src, id) {
     var m = root.querySelector('[data-gal-main]');
@@ -170,33 +177,33 @@
   }
   function render() {
     var v = biezacy(); if (!v) return;
-    root.querySelector('[data-variant-input]').value = v.id;
-    var darmowa = v.price >= 19900, dostawa = darmowa ? 0 : 1299;
-    each('[data-price]', function (e) { e.textContent = zl(v.price); });
+    vIn.value = v.id; qIn.value = qty;
+    var c = cena(v), darmowa = c >= 19900, dostawa = darmowa ? 0 : 1299;
+    each('[data-price]', function (e) { e.textContent = zl(c); });
     each('[data-ship]', function (e) { e.textContent = darmowa ? 'Darmowa dostawa' : '+ ' + zl(dostawa) + ' dostawa'; e.classList.toggle('free', darmowa); });
-    each('[data-total]', function (e) { e.textContent = zl(v.price + dostawa); });
-    each('[data-color-name]', function (e) { e.textContent = sel[0]; });
-    each('[data-set-name]', function (e) { e.textContent = sel[1]; });
-    each('[data-atc-label]', function (e) { e.textContent = (v.available ? 'Dodaj do koszyka · ' : 'Chwilowo niedostępne · ') + zl(v.price); });
+    each('[data-total]', function (e) { e.textContent = zl(c + dostawa); });
+    each('[data-color-name]', function (e) { e.textContent = kolor; });
+    each('[data-set-name]', function (e) { e.textContent = qty === 2 ? '2 maski' : '1 maska'; });
+    each('[data-atc-label]', function (e) { e.textContent = (v.available ? 'Dodaj do koszyka · ' : 'Chwilowo niedostępne · ') + zl(c); });
     each('[data-atc]', function (b) { b.disabled = !v.available; });
-    each('.sw', function (b) { b.setAttribute('aria-pressed', String(b.dataset.value === sel[0])); });
-    each('.set', function (b) { b.setAttribute('aria-pressed', String(b.dataset.value === sel[1])); });
+    each('.sw', function (b) { b.setAttribute('aria-pressed', String(b.dataset.value === kolor)); });
+    each('.set', function (b) { b.setAttribute('aria-pressed', String(Number(b.dataset.qty) === qty)); });
     try { var u = new URL(location.href); u.searchParams.set('variant', v.id); history.replaceState(null, '', u); } catch (e) {}
   }
   root.addEventListener('click', function (e) {
     var sw = e.target.closest('.sw');
     if (sw) {
-      sel[0] = sw.dataset.value; render();
+      kolor = sw.dataset.value; render();
       var v = biezacy();
       if (v && v.featured_media && v.featured_media.preview_image) {
         var s = v.featured_media.preview_image.src; s += (s.indexOf('?') > -1 ? '&' : '?') + 'width=1200';
         zdjecie(s, v.featured_media.id);
       }
     }
-    var st = e.target.closest('.set'); if (st) { sel[1] = st.dataset.value; render(); }
+    var st = e.target.closest('.set'); if (st) { qty = Number(st.dataset.qty); render(); }
     var th = e.target.closest('.thumb'); if (th) { zdjecie(th.dataset.src, th.dataset.mediaId); }
-    var pk = e.target.closest('[data-pick-set]');
-    if (pk) { sel[1] = pk.dataset.pickSet; render(); root.querySelector('.buy').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    var pk = e.target.closest('[data-pick-qty]');
+    if (pk) { qty = Number(pk.dataset.pickQty); render(); root.querySelector('.buy').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
     var sb = e.target.closest('[data-sticky-atc]');
     if (sb) { var f = document.getElementById('usnij-form'); if (f.requestSubmit) f.requestSubmit(); else f.submit(); }
   });
