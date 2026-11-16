@@ -4,12 +4,13 @@
   "kampania": {
     "id": "52695568915668",
     "nazwa": "Usnij | Sprzedaż | PL | start 50 zł",
-    "stan": "AKTYWNA od 16.11.2026 02:20, 100 zł dziennie"
+    "stan": "AKTYWNA; 16.11 grupa „zakup” wydała ok. 97 zł (0 dodań do koszyka), od 17.11 00:50 nowa grupa „dodanie do koszyka” do 18.11 01:00 (limit testu ok. 200 zł)"
   },
   "grupa_reklam": {
     "id": "52695568941668",
     "nazwa": "PL | szeroko 18-65+ | wszyscy | bez zainteresowań",
-    "start": "2026-11-16T00:01:00+01:00"
+    "start": "2026-11-16T00:01:00+01:00",
+    "stan": "WSTRZYMANA 17.11 00:45 (optymalizacja pod zakup, za drogie wyświetlenia)"
   },
   "media": {
     "reklama-1-4x5.jpg": {
@@ -84,6 +85,21 @@
     "R6 | montaż hak + zbliżenia": {
       "ad_id": "52695603038068",
       "creative_id": "1996600041317678"
+    }
+  },
+  "grupa_reklam_koszyk": {
+    "id": "52695957987668",
+    "nazwa": "PL | szeroko | dodanie do koszyka | test 17.11",
+    "start": "2026-11-17T00:50:00+01:00",
+    "koniec": "2026-11-18T01:00:00+01:00",
+    "zdarzenie": "ADD_TO_CART",
+    "reklamy": {
+      "R1": "52695958038468",
+      "R2": "52695958038668",
+      "R3": "52695958038868",
+      "R4": "52695958040068",
+      "R5": "52695958198268",
+      "R6": "52695959295268"
     }
   }
 }
