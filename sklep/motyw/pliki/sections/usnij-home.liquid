@@ -66,7 +66,10 @@
 
 <section><div class="wrap">
   <h2 class="center">Opinie o masce</h2>
-  <div class="reviews-slot">Opinie o masce znajdziesz na <a href="{{ link }}#opinie">stronie produktu</a>, razem z informacją, skąd pochodzą.</div>
+  <p class="small center" style="max-width:720px;margin:0 auto 18px">Część opinii poniżej pochodzi od osób, które kupiły tę samą maskę w serwisie AliExpress, i została do nas zaimportowana. Nie sprawdzamy, czy autorzy tych opinii kupili maskę w sklepie Usnij. Opinie klientów sklepu Usnij są oznaczone jako zweryfikowany zakup. Pokazujemy wszystkie zaimportowane oceny, także niższe.</p>
+  {%- if p -%}
+  <div id="looxReviews" data-product-id="{{ p.id }}" class="loox-reviews-default">{{ p.metafields.loox.reviews }}</div>
+  {%- endif -%}
 </div></section>
 
 <section class="alt" id="faq"><div class="wrap">
