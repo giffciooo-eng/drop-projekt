@@ -39,3 +39,15 @@ Strony Dostawa, Zwroty i reklamacje, Regulamin i Kontakt są już przepisane pod
 ## 6. Polityka prywatności
 
 Shopify wstawia tu nazwę sklepu („Otulaj obsługuje ten sklep…”). Po zmianie nazwy sklepu na Usnij (Ustawienia → Szczegóły sklepu) sprawdź, czy tekst sam się zmienił. Jeśli nie, zamień ręcznie dwa razy „Otulaj” na „Usnij”.
+
+## 7. Poprawki z 16.11 (sprawdzenie przed startem kampanii)
+
+W **Warunkach świadczenia usług** (Ustawienia → Zasady):
+- Punkt 3, zdanie „Dostępne metody płatności: BLIK, karta płatnicza, szybki przelew online.” zamień na: „Dostępne metody płatności widać w kasie, między innymi: BLIK, karta płatnicza, PayPal, Klarna i Google Pay.” (szybkiego przelewu w kasie nie ma).
+- Punkt 9 zamień na: „Konsument może skorzystać z pomocy miejskich lub powiatowych rzeczników konsumentów oraz wojewódzkich inspektoratów Inspekcji Handlowej.” (platforma ODR została zamknięta przez UE w 2025).
+
+Strona „Regulamin” jest już poprawiona.
+
+W **ustawieniach kasy i wysyłki**:
+- Ustawienia → Kasa (Checkout) → Opcje marketingowe: wyłącz **domyślne zaznaczenie** zgody na maile marketingowe. W UE zgoda musi być zaznaczona przez klienta, nie z góry.
+- Ustawienia → Wysyłka i dostawa → czas przetwarzania zamówień: kasa pokazuje „Wysyłka: następny dzień roboczy”, a Teemdrop potrzebuje 1–3 dni. Ustaw 1–3 dni robocze albo wyłącz ten czas.

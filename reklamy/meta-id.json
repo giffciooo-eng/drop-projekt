@@ -4,7 +4,7 @@
   "kampania": {
     "id": "52695568915668",
     "nazwa": "Usnij | Sprzedaż | PL | start 50 zł",
-    "stan": "szkic (nieopublikowana)"
+    "stan": "AKTYWNA od 16.11.2026 02:20, 100 zł dziennie"
   },
   "grupa_reklam": {
     "id": "52695568941668",
@@ -65,7 +65,8 @@
     },
     "R2 | statyk świąteczny": {
       "ad_id": "52695603035468",
-      "creative_id": "1464863875221680"
+      "creative_id": "1871329384218975",
+      "creative_id_stary_8_18_dni": "1464863875221680"
     },
     "R3 | wideo AI, efekt wow": {
       "ad_id": "52695603036668",
@@ -77,7 +78,8 @@
     },
     "R5 | montaż od rozpakowania": {
       "ad_id": "52695603037668",
-      "creative_id": "1161147539777547"
+      "creative_id": "995037550324288",
+      "creative_id_stary_8_18_dni": "1161147539777547"
     },
     "R6 | montaż hak + zbliżenia": {
       "ad_id": "52695603038068",

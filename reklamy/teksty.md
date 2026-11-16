@@ -2,7 +2,7 @@
 
 Zasady: tylko fakty, które da się sprawdzić (cena, zestaw, dostawa, zwrot, materiał i budowa potwierdzone zdjęciami dostawcy). Bez „szybciej zaśniesz”, „100% ciemności”, bez obietnic zdrowotnych. Przycisk we wszystkich reklamach: **Kup teraz**.
 
-Fakty użyte w tekstach (źródło: biznes.md i infografika dostawcy `produkt/dostawca-infografika-szara.jpg`): 1 maska 139 zł + 12,99 zł dostawy; 2 maski 199 zł z darmową dostawą (osobno 2 × 139 zł = 278 zł); 4 komory ze szklanymi kulkami; miękki, podwójny polar; końce bez wypełnienia, które kładzie się na poduszce albo pod głową; otwór na jednym końcu, przez który przekłada się drugi koniec, żeby zapiąć maskę z tyłu głowy; bez gumki; dostawa 8–18 dni z numerem śledzenia; 30 dni na zwrot bez podawania przyczyny; BLIK, karta, szybki przelew. NIE używamy wagi 240 g, dopóki Teemdrop jej nie potwierdzi dla wariantu z kulkami.
+Fakty użyte w tekstach (źródło: biznes.md i infografika dostawcy `produkt/dostawca-infografika-szara.jpg`): 1 maska 139 zł + 12,99 zł dostawy; 2 maski 199 zł z darmową dostawą (osobno 2 × 139 zł = 278 zł); 4 komory ze szklanymi kulkami; miękki, podwójny polar; końce bez wypełnienia, które kładzie się na poduszce albo pod głową; otwór na jednym końcu, przez który przekłada się drugi koniec, żeby zapiąć maskę z tyłu głowy; bez gumki; dostawa 7–15 dni z numerem śledzenia; 30 dni na zwrot bez podawania przyczyny; BLIK, karta, szybki przelew. NIE używamy wagi 240 g, dopóki Teemdrop jej nie potwierdzi dla wariantu z kulkami.
 
 ---
 
@@ -38,7 +38,7 @@ Usnij to obciążeniowa maska na oczy ze szklanymi kulkami w miękkim polarze. C
 
 Zestaw 2 masek kosztuje 199 zł z darmową dostawą: jedna pod choinkę, druga dla Ciebie.
 
-Dostawa trwa 8–18 dni i dostajesz numer śledzenia, więc na prezent zamów z wyprzedzeniem. Jeśli nie trafi w gust, masz 30 dni na zwrot.
+Dostawa trwa 7–15 dni i dostajesz numer śledzenia, więc na prezent zamów z wyprzedzeniem. Jeśli nie trafi w gust, masz 30 dni na zwrot.
 
 **Przycisk:** Kup teraz
 
@@ -92,7 +92,7 @@ W środku jest obciążeniowa maska: szklane kulki w miękkim, podwójnym polarz
 
 Kładziesz ją na oczach, płaskie końce zostawiasz na poduszce i gasisz światło.
 
-Zestaw 2 masek kosztuje 199 zł z darmową dostawą. Dostawa trwa 8–18 dni i dostajesz numer śledzenia.
+Zestaw 2 masek kosztuje 199 zł z darmową dostawą. Dostawa trwa 7–15 dni i dostajesz numer śledzenia.
 
 **Przycisk:** Kup teraz
 
