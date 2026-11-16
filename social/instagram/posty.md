@@ -20,7 +20,7 @@ Bio (117 znaków, limit 150):
 ```
 Obciążeniowa maska na oczy ze szklanymi kulkami
 2 maski za 199 zł, darmowa dostawa
-Dostawa 8–18 dni · 30 dni na zwrot
+Dostawa 7–15 dni · 30 dni na zwrot
 ```
 
 Stare posty Otulaj: **Archiwizuj**, nie usuwaj (przy każdym poście: ⋯ → Archiwizuj). Zarchiwizowane widzisz tylko Ty i możesz je przywrócić. Wyróżnione relacje Otulaj też usuń z profilu.
@@ -116,7 +116,7 @@ Prezent dla kogoś, kto co rano mówi „znowu nie spałam”.
 
 Zestaw 2 masek za 199 zł z darmową dostawą: jedna pod choinkę, druga dla Ciebie.
 
-Dostawa trwa 8–18 dni i dostajesz numer śledzenia, więc na święta zamów z wyprzedzeniem.
+Dostawa trwa 7–15 dni i dostajesz numer śledzenia, więc na święta zamów z wyprzedzeniem.
 
 #prezentdlaniej #prezentnaswieta #maskadospania
 ```
