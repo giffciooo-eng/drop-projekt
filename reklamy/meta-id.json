@@ -4,7 +4,7 @@
   "kampania": {
     "id": "52695568915668",
     "nazwa": "Usnij | Sprzedaż | PL | start 50 zł",
-    "stan": "AKTYWNA; 16.11 grupa „zakup” wydała ok. 97 zł (0 dodań do koszyka), od 17.11 00:50 nowa grupa „dodanie do koszyka” do 18.11 01:00 (limit testu ok. 200 zł)"
+    "stan": "ZAKOŃCZONA 17.11 09:50 po osiągnięciu limitu testu: wydane 201,13 zł, 0 zamówień"
   },
   "grupa_reklam": {
     "id": "52695568941668",
@@ -100,6 +100,7 @@
       "R4": "52695958040068",
       "R5": "52695958198268",
       "R6": "52695959295268"
-    }
+    },
+    "stan": "WSTRZYMANA 17.11 09:50 (limit 200 zł osiągnięty)"
   }
 }
