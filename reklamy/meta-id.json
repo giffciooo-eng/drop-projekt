@@ -4,7 +4,7 @@
   "kampania": {
     "id": "52695568915668",
     "nazwa": "Usnij | Sprzedaż | PL | start 50 zł",
-    "stan": "ZAKOŃCZONA 17.11 09:50 po osiągnięciu limitu testu: wydane 201,13 zł, 0 zamówień"
+    "stan": "AKTYWNA: ostatni test 18.11 07:00 – 19.11 07:00 (ok. 100 zł), wcześniej 201,13 zł bez zamówień"
   },
   "grupa_reklam": {
     "id": "52695568941668",
@@ -102,5 +102,18 @@
       "R6": "52695959295268"
     },
     "stan": "WSTRZYMANA 17.11 09:50 (limit 200 zł osiągnięty)"
+  },
+  "grupa_reklam_ostatni_test": {
+    "id": "52696222462668",
+    "nazwa": "PL | FB+IG | dodanie do koszyka | ostatni test 18.11",
+    "start": "2026-11-18T07:00:00+01:00",
+    "koniec": "2026-11-19T07:00:00+01:00",
+    "miejsca": "tylko Facebook i Instagram",
+    "zdarzenie": "ADD_TO_CART",
+    "reklamy": {
+      "R1": "52696222468668",
+      "R2": "52696222471668",
+      "R4": "52696222474268"
+    }
   }
 }
