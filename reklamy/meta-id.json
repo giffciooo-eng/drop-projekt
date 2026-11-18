@@ -4,7 +4,7 @@
   "kampania": {
     "id": "52695568915668",
     "nazwa": "Usnij | Sprzedaż | PL | start 50 zł",
-    "stan": "AKTYWNA: ostatni test 18.11 07:00 – 19.11 07:00 (ok. 100 zł), wcześniej 201,13 zł bez zamówień"
+    "stan": "ZAKOŃCZONA 18.11.2026 ok. 16:45: ostatni test wstrzymany po 35,30 zł; razem na maskę 236,43 zł, 0 zamówień"
   },
   "grupa_reklam": {
     "id": "52695568941668",
@@ -114,6 +114,7 @@
       "R1": "52696222468668",
       "R2": "52696222471668",
       "R4": "52696222474268"
-    }
+    },
+    "stan": "WSTRZYMANA 18.11.2026 ok. 16:45 (decyzja właściciela), wydane 35,30 zł"
   }
 }
