@@ -61,9 +61,21 @@ Cięcie co ok. 1,5–2 s, każde zdanie na białej ramce z czarnym tekstem, gło
 - „Instrukcja po polsku” obiecujemy tylko wtedy, gdy ją zrobimy: strona w sklepie i link w mailu po zakupie. Dostawca nie dołoży naszej kartki do paczki.
 - Nie piszemy „pocięta włóczka”, „rama w zestawie” itp., dopóki nie potwierdzi tego oferta dostawcy.
 
-## Koszt (Higgsfield, saldo 20.11: 254,5 kredytu)
+## Jak generować ujęcia, żeby wyglądały jak prawdziwy punch needle (testy 20.11)
+
+- **Test 1 (odrzucony przez właściciela):** jedna klatka startowa i Kling std. Płatek „nadmuchiwał się” jak balon zamiast rosnąć ścieg po ściegu, a włóczka była za gruba, jak na szydełko.
+- **Test 2 (dobry):** pierwsza i ostatnia klatka ujęcia plus Kling 3.0 pro. Linia rośnie kulka po kulce wzdłuż konturu, igła idzie dalej. Pliki: `ai-test/start-ujecie-2.png`, `koniec-ujecie-2.png`, `test2-kling-pro-5s.mp4`.
+- Zasady na kolejne ujęcia, wzorowane na prawdziwych nagraniach:
+  - igła trzymana prawie pionowo, jak długopis;
+  - cienka włóczka idzie z góry poza kadr;
+  - na płótnie ołówkowy kontur, a ścieg to linia małych, równych, okrągłych pętelek (ok. 3 mm), jak koraliki;
+  - zawsze generujemy pierwszą i ostatnią klatkę (ostatnia = ta sama scena z dłuższą linią) i dopiero wtedy animujemy;
+  - w opisie ruchu: „każde wbicie dodaje jedną pętelkę na końcu linii, reszta się nie zmienia”.
+- Koszt jednego ujęcia: 2 klatki (ok. 9 kr.) i animacja pro 5 s (8,75 kr.), razem ok. 18 kr.
+
+## Koszt (Higgsfield, saldo 20.11: 254,5 kredytu, po testach 233,75)
 
 - Klatka startowa (gpt_image_2_6): ok. 4,5 kr. za sztukę
 - Animacja 5 s (Kling 3.0 std, bez dźwięku): 7,5 kr. za sztukę
-- Reklama A: ok. 8 ujęć ≈ 8 × (4,5 + 7,5) ≈ 100 kr. z zapasem na poprawki. Wersja B: ok. 25 kr.
+- Reklama A metodą z testu 2: ok. 8 ujęć × ok. 18 kr. ≈ 145 kr. (część ujęć, np. pudełko i gotowy obrazek na ścianie, wystarczy z jedną klatką startową, ok. 13 kr.). Wersja B: ok. 40 kr.
 - Głos: polski lektor AI. Napisy, plansze i montaż robię u siebie (ffmpeg).
